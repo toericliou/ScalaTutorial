@@ -19,8 +19,25 @@ name hashing:
 1 items
 0 -> true
 products:
-40 items
+84 items
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/AdvancedTypes.scala -> /home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/AdvancedTypes$$anon$1.class
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/AdvancedTypes.scala -> /home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/AdvancedTypes$$anon$2.class
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/AdvancedTypes.scala -> /home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/AdvancedTypes$$anon$3.class
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/AdvancedTypes.scala -> /home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/AdvancedTypes$$anon$4.class
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/AdvancedTypes.scala -> /home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/AdvancedTypes$$anonfun$1.class
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/AdvancedTypes.scala -> /home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/AdvancedTypes$.class
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/AdvancedTypes.scala -> /home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/AdvancedTypes$Container.class
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/AdvancedTypes.scala -> /home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/AdvancedTypes$Container1.class
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/AdvancedTypes.scala -> /home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/AdvancedTypes$Container2.class
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/AdvancedTypes.scala -> /home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/AdvancedTypes.class
 /home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> /home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/BasicDataStructures$$anonfun$1.class
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> /home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/BasicDataStructures$$anonfun$10.class
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> /home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/BasicDataStructures$$anonfun$11.class
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> /home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/BasicDataStructures$$anonfun$12.class
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> /home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/BasicDataStructures$$anonfun$13$$anonfun$apply$1.class
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> /home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/BasicDataStructures$$anonfun$13.class
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> /home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/BasicDataStructures$$anonfun$14.class
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> /home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/BasicDataStructures$$anonfun$15.class
 /home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> /home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/BasicDataStructures$$anonfun$2.class
 /home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> /home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/BasicDataStructures$$anonfun$3.class
 /home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> /home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/BasicDataStructures$$anonfun$4.class
@@ -29,6 +46,7 @@ products:
 /home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> /home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/BasicDataStructures$$anonfun$7.class
 /home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> /home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/BasicDataStructures$$anonfun$8.class
 /home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> /home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/BasicDataStructures$$anonfun$9.class
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> /home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/BasicDataStructures$$anonfun$ourMap$1.class
 /home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> /home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/BasicDataStructures$.class
 /home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> /home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/BasicDataStructures$Option.class
 /home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> /home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/BasicDataStructures.class
@@ -60,14 +78,48 @@ products:
 /home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicsContinued.scala -> /home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/BasicsContinued$newCalculator$.class
 /home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicsContinued.scala -> /home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/BasicsContinued$newCalculator.class
 /home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicsContinued.scala -> /home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/BasicsContinued.class
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/FunctionComposition.scala -> /home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/FunctionComposition$$anonfun$1.class
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/FunctionComposition.scala -> /home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/FunctionComposition$$anonfun$2.class
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/FunctionComposition.scala -> /home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/FunctionComposition$$anonfun$3.class
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/FunctionComposition.scala -> /home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/FunctionComposition$$anonfun$4.class
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/FunctionComposition.scala -> /home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/FunctionComposition$$anonfun$5.class
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/FunctionComposition.scala -> /home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/FunctionComposition$$anonfun$6.class
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/FunctionComposition.scala -> /home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/FunctionComposition$$anonfun$7.class
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/FunctionComposition.scala -> /home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/FunctionComposition$$anonfun$8.class
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/FunctionComposition.scala -> /home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/FunctionComposition$$anonfun$9.class
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/FunctionComposition.scala -> /home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/FunctionComposition$.class
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/FunctionComposition.scala -> /home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/FunctionComposition$PhoneExt$.class
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/FunctionComposition.scala -> /home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/FunctionComposition$PhoneExt.class
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/FunctionComposition.scala -> /home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/FunctionComposition.class
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/SimpleParser.scala -> /home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/SimpleParsed$.class
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/SimpleParser.scala -> /home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/SimpleParsed.class
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/SimpleParser.scala -> /home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/SimpleParser.class
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/TypeAndPolymorphismBasics.scala -> /home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/TypeAndPolymorphismBasics$$anonfun$1.class
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/TypeAndPolymorphismBasics.scala -> /home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/TypeAndPolymorphismBasics$$anonfun$biophony$1.class
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/TypeAndPolymorphismBasics.scala -> /home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/TypeAndPolymorphismBasics$$anonfun$hashcodes$1.class
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/TypeAndPolymorphismBasics.scala -> /home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/TypeAndPolymorphismBasics$.class
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/TypeAndPolymorphismBasics.scala -> /home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/TypeAndPolymorphismBasics$Animal.class
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/TypeAndPolymorphismBasics.scala -> /home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/TypeAndPolymorphismBasics$Bird.class
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/TypeAndPolymorphismBasics.scala -> /home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/TypeAndPolymorphismBasics$Chicken.class
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/TypeAndPolymorphismBasics.scala -> /home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/TypeAndPolymorphismBasics$Contravariant.class
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/TypeAndPolymorphismBasics.scala -> /home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/TypeAndPolymorphismBasics$Covariant.class
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/TypeAndPolymorphismBasics.scala -> /home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/TypeAndPolymorphismBasics.class
 binary dependencies:
-6 items
+14 items
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/AdvancedTypes.scala -> /root/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/AdvancedTypes.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
 /home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> /root/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar
 /home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
 /home/eerilio/Documents/Scala/Tutorial/src/main/scala/Basics.scala -> /root/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar
 /home/eerilio/Documents/Scala/Tutorial/src/main/scala/Basics.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
 /home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicsContinued.scala -> /root/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar
 /home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicsContinued.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/FunctionComposition.scala -> /root/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/FunctionComposition.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/SimpleParser.scala -> /root/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/SimpleParser.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/TypeAndPolymorphismBasics.scala -> /root/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/TypeAndPolymorphismBasics.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
 direct source dependencies:
 0 items
 direct external dependencies:
@@ -86,10 +138,27 @@ inheritance internal dependencies:
 inheritance external dependencies:
 0 items
 class names:
-40 items
+84 items
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/AdvancedTypes.scala -> AdvancedTypes
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/AdvancedTypes.scala -> AdvancedTypes$
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/AdvancedTypes.scala -> AdvancedTypes$$anon$1
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/AdvancedTypes.scala -> AdvancedTypes$$anon$2
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/AdvancedTypes.scala -> AdvancedTypes$$anon$3
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/AdvancedTypes.scala -> AdvancedTypes$$anon$4
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/AdvancedTypes.scala -> AdvancedTypes$$anonfun$1
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/AdvancedTypes.scala -> AdvancedTypes$Container
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/AdvancedTypes.scala -> AdvancedTypes$Container1
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/AdvancedTypes.scala -> AdvancedTypes$Container2
 /home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> BasicDataStructures
 /home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> BasicDataStructures$
 /home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> BasicDataStructures$$anonfun$1
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> BasicDataStructures$$anonfun$10
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> BasicDataStructures$$anonfun$11
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> BasicDataStructures$$anonfun$12
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> BasicDataStructures$$anonfun$13
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> BasicDataStructures$$anonfun$13$$anonfun$apply$1
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> BasicDataStructures$$anonfun$14
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> BasicDataStructures$$anonfun$15
 /home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> BasicDataStructures$$anonfun$2
 /home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> BasicDataStructures$$anonfun$3
 /home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> BasicDataStructures$$anonfun$4
@@ -98,6 +167,7 @@ class names:
 /home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> BasicDataStructures$$anonfun$7
 /home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> BasicDataStructures$$anonfun$8
 /home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> BasicDataStructures$$anonfun$9
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> BasicDataStructures$$anonfun$ourMap$1
 /home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> BasicDataStructures$Option
 /home/eerilio/Documents/Scala/Tutorial/src/main/scala/Basics.scala -> Basics
 /home/eerilio/Documents/Scala/Tutorial/src/main/scala/Basics.scala -> Basics$
@@ -127,48 +197,151 @@ class names:
 /home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicsContinued.scala -> BasicsContinued$Timer$
 /home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicsContinued.scala -> BasicsContinued$newCalculator
 /home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicsContinued.scala -> BasicsContinued$newCalculator$
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/FunctionComposition.scala -> FunctionComposition
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/FunctionComposition.scala -> FunctionComposition$
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/FunctionComposition.scala -> FunctionComposition$$anonfun$1
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/FunctionComposition.scala -> FunctionComposition$$anonfun$2
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/FunctionComposition.scala -> FunctionComposition$$anonfun$3
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/FunctionComposition.scala -> FunctionComposition$$anonfun$4
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/FunctionComposition.scala -> FunctionComposition$$anonfun$5
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/FunctionComposition.scala -> FunctionComposition$$anonfun$6
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/FunctionComposition.scala -> FunctionComposition$$anonfun$7
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/FunctionComposition.scala -> FunctionComposition$$anonfun$8
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/FunctionComposition.scala -> FunctionComposition$$anonfun$9
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/FunctionComposition.scala -> FunctionComposition$PhoneExt
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/FunctionComposition.scala -> FunctionComposition$PhoneExt$
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/SimpleParser.scala -> SimpleParsed
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/SimpleParser.scala -> SimpleParsed$
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/SimpleParser.scala -> SimpleParser
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/TypeAndPolymorphismBasics.scala -> TypeAndPolymorphismBasics
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/TypeAndPolymorphismBasics.scala -> TypeAndPolymorphismBasics$
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/TypeAndPolymorphismBasics.scala -> TypeAndPolymorphismBasics$$anonfun$1
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/TypeAndPolymorphismBasics.scala -> TypeAndPolymorphismBasics$$anonfun$biophony$1
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/TypeAndPolymorphismBasics.scala -> TypeAndPolymorphismBasics$$anonfun$hashcodes$1
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/TypeAndPolymorphismBasics.scala -> TypeAndPolymorphismBasics$Animal
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/TypeAndPolymorphismBasics.scala -> TypeAndPolymorphismBasics$Bird
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/TypeAndPolymorphismBasics.scala -> TypeAndPolymorphismBasics$Chicken
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/TypeAndPolymorphismBasics.scala -> TypeAndPolymorphismBasics$Contravariant
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/TypeAndPolymorphismBasics.scala -> TypeAndPolymorphismBasics$Covariant
 used names:
-169 items
+388 items
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/AdvancedTypes.scala -> $anon
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/AdvancedTypes.scala -> $conforms
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/AdvancedTypes.scala -> +
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/AdvancedTypes.scala -> <init>
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/AdvancedTypes.scala -> =:=
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/AdvancedTypes.scala -> A
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/AdvancedTypes.scala -> AdvancedTypes
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/AdvancedTypes.scala -> AnyRef
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/AdvancedTypes.scala -> B
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/AdvancedTypes.scala -> Container
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/AdvancedTypes.scala -> Container1
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/AdvancedTypes.scala -> Container2
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/AdvancedTypes.scala -> Function1
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/AdvancedTypes.scala -> Int
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/AdvancedTypes.scala -> List
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/AdvancedTypes.scala -> M
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/AdvancedTypes.scala -> Ordering
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/AdvancedTypes.scala -> Predef
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/AdvancedTypes.scala -> Some
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/AdvancedTypes.scala -> String
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/AdvancedTypes.scala -> _root_
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/AdvancedTypes.scala -> a
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/AdvancedTypes.scala -> addIt
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/AdvancedTypes.scala -> apply
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/AdvancedTypes.scala -> augmentString
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/AdvancedTypes.scala -> b
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/AdvancedTypes.scala -> c
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/AdvancedTypes.scala -> compare
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/AdvancedTypes.scala -> container
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/AdvancedTypes.scala -> evidence
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/AdvancedTypes.scala -> fst
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/AdvancedTypes.scala -> get
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/AdvancedTypes.scala -> head
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/AdvancedTypes.scala -> immutable
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/AdvancedTypes.scala -> implicitly
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/AdvancedTypes.scala -> intWrapper
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/AdvancedTypes.scala -> listContainer
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/AdvancedTypes.scala -> m
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/AdvancedTypes.scala -> math
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/AdvancedTypes.scala -> max
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/AdvancedTypes.scala -> min
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/AdvancedTypes.scala -> optionContainer
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/AdvancedTypes.scala -> package
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/AdvancedTypes.scala -> put
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/AdvancedTypes.scala -> scala
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/AdvancedTypes.scala -> snd
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/AdvancedTypes.scala -> strToInt
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/AdvancedTypes.scala -> toInt
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/AdvancedTypes.scala -> tpEquals
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/AdvancedTypes.scala -> tupleize
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/AdvancedTypes.scala -> value
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/AdvancedTypes.scala -> x
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/AdvancedTypes.scala -> y
 /home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> !=
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> $conforms
 /home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> %
 /home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> *
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> +
 /home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> ->
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> ::
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> <
 /home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> <init>
 /home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> ==
 /home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> >
 /home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> AnyRef
 /home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> BasicDataStructures
 /home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> Boolean
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> Function1
 /home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> Int
 /home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> List
 /home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> Map
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> Nil
 /home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> Predef
 /home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> Set
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> String
 /home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> T
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> Tuple2
 /home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> _1
 /home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> _2
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> _root_
 /home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> apply
 /home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> canBuildFrom
 /home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> drop
 /home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> dropWhile
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> extension
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> extensions
 /home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> filter
 /home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> find
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> flatMap
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> flatten
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> fn
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> foldLeft
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> foldRight
 /home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> foreach
 /home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> get
 /home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> hostPort
 /home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> i
 /home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> immutable
 /home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> isEven
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> m
 /home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> map
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> n
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> namePhone
 /home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> ne
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> nestedNumbers
 /home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> newnums
 /home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> numbers
 /home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> nums
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> ourMap
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> package
 /home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> partition
 /home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> println
 /home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> scala
 /home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> set
 /home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> timesTwo
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> x
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> xs
 /home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> zip
 /home/eerilio/Documents/Scala/Tutorial/src/main/scala/Basics.scala -> *
 /home/eerilio/Documents/Scala/Tutorial/src/main/scala/Basics.scala -> +
@@ -298,53 +471,243 @@ used names:
 /home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicsContinued.scala -> toString
 /home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicsContinued.scala -> typedProductIterator
 /home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicsContinued.scala -> ||
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/FunctionComposition.scala -> &&
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/FunctionComposition.scala -> +
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/FunctionComposition.scala -> <
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/FunctionComposition.scala -> <init>
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/FunctionComposition.scala -> ==
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/FunctionComposition.scala -> A1
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/FunctionComposition.scala -> AbstractFunction2
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/FunctionComposition.scala -> AnyRef
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/FunctionComposition.scala -> B1
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/FunctionComposition.scala -> Function1
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/FunctionComposition.scala -> FunctionComposition
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/FunctionComposition.scala -> Int
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/FunctionComposition.scala -> List
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/FunctionComposition.scala -> None
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/FunctionComposition.scala -> PartialFunction
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/FunctionComposition.scala -> PhoneExt
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/FunctionComposition.scala -> Predef
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/FunctionComposition.scala -> Product
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/FunctionComposition.scala -> ScalaRunTime
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/FunctionComposition.scala -> Serializable
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/FunctionComposition.scala -> Statics
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/FunctionComposition.scala -> String
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/FunctionComposition.scala -> _toString
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/FunctionComposition.scala -> andThen
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/FunctionComposition.scala -> anyHash
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/FunctionComposition.scala -> apply
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/FunctionComposition.scala -> asInstanceOf
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/FunctionComposition.scala -> compose
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/FunctionComposition.scala -> eq
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/FunctionComposition.scala -> ext
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/FunctionComposition.scala -> extension
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/FunctionComposition.scala -> extensions
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/FunctionComposition.scala -> f
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/FunctionComposition.scala -> fAndThenG
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/FunctionComposition.scala -> fComposeG
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/FunctionComposition.scala -> filter
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/FunctionComposition.scala -> finalizeHash
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/FunctionComposition.scala -> g
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/FunctionComposition.scala -> immutable
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/FunctionComposition.scala -> isDefinedAt
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/FunctionComposition.scala -> isInstanceOf
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/FunctionComposition.scala -> mix
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/FunctionComposition.scala -> name
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/FunctionComposition.scala -> ne
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/FunctionComposition.scala -> one
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/FunctionComposition.scala -> orElse
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/FunctionComposition.scala -> partial
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/FunctionComposition.scala -> runtime
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/FunctionComposition.scala -> s
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/FunctionComposition.scala -> scala
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/FunctionComposition.scala -> three
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/FunctionComposition.scala -> toString
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/FunctionComposition.scala -> two
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/FunctionComposition.scala -> typedProductIterator
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/FunctionComposition.scala -> unchecked
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/FunctionComposition.scala -> wildcard
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/FunctionComposition.scala -> ||
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/SimpleParser.scala -> &&
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/SimpleParser.scala -> <init>
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/SimpleParser.scala -> ==
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/SimpleParser.scala -> AbstractFunction2
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/SimpleParser.scala -> AnyRef
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/SimpleParser.scala -> Long
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/SimpleParser.scala -> None
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/SimpleParser.scala -> Predef
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/SimpleParser.scala -> Product
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/SimpleParser.scala -> ScalaRunTime
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/SimpleParser.scala -> Serializable
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/SimpleParser.scala -> SimpleParsed
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/SimpleParser.scala -> SimpleParser
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/SimpleParser.scala -> Statics
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/SimpleParser.scala -> String
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/SimpleParser.scala -> _toString
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/SimpleParser.scala -> anyHash
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/SimpleParser.scala -> asInstanceOf
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/SimpleParser.scala -> augmentString
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/SimpleParser.scala -> end
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/SimpleParser.scala -> eq
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/SimpleParser.scala -> finalizeHash
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/SimpleParser.scala -> findFirstMatchIn
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/SimpleParser.scala -> id
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/SimpleParser.scala -> isInstanceOf
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/SimpleParser.scala -> longHash
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/SimpleParser.scala -> m
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/SimpleParser.scala -> mix
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/SimpleParser.scala -> r
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/SimpleParser.scala -> runtime
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/SimpleParser.scala -> scala
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/SimpleParser.scala -> start
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/SimpleParser.scala -> str
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/SimpleParser.scala -> substring
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/SimpleParser.scala -> test
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/SimpleParser.scala -> text
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/SimpleParser.scala -> toInt
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/SimpleParser.scala -> toLong
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/SimpleParser.scala -> toString
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/SimpleParser.scala -> tweetRegex
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/SimpleParser.scala -> typedProductIterator
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/SimpleParser.scala -> x
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/SimpleParser.scala -> ||
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/TypeAndPolymorphismBasics.scala -> ::
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/TypeAndPolymorphismBasics.scala -> <init>
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/TypeAndPolymorphismBasics.scala -> A
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/TypeAndPolymorphismBasics.scala -> Animal
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/TypeAndPolymorphismBasics.scala -> AnyRef
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/TypeAndPolymorphismBasics.scala -> Array
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/TypeAndPolymorphismBasics.scala -> Bird
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/TypeAndPolymorphismBasics.scala -> Chicken
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/TypeAndPolymorphismBasics.scala -> Contravariant
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/TypeAndPolymorphismBasics.scala -> Covariant
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/TypeAndPolymorphismBasics.scala -> Function1
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/TypeAndPolymorphismBasics.scala -> List
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/TypeAndPolymorphismBasics.scala -> Nil
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/TypeAndPolymorphismBasics.scala -> Predef
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/TypeAndPolymorphismBasics.scala -> Seq
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/TypeAndPolymorphismBasics.scala -> String
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/TypeAndPolymorphismBasics.scala -> T
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/TypeAndPolymorphismBasics.scala -> TypeAndPolymorphismBasics
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/TypeAndPolymorphismBasics.scala -> _root_
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/TypeAndPolymorphismBasics.scala -> a
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/TypeAndPolymorphismBasics.scala -> apply
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/TypeAndPolymorphismBasics.scala -> biophony
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/TypeAndPolymorphismBasics.scala -> canBuildFrom
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/TypeAndPolymorphismBasics.scala -> collection
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/TypeAndPolymorphismBasics.scala -> cv
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/TypeAndPolymorphismBasics.scala -> cv2
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/TypeAndPolymorphismBasics.scala -> flock
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/TypeAndPolymorphismBasics.scala -> getTweet
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/TypeAndPolymorphismBasics.scala -> hashCode
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/TypeAndPolymorphismBasics.scala -> hashcodes
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/TypeAndPolymorphismBasics.scala -> id
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/TypeAndPolymorphismBasics.scala -> immutable
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/TypeAndPolymorphismBasics.scala -> l
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/TypeAndPolymorphismBasics.scala -> map
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/TypeAndPolymorphismBasics.scala -> package
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/TypeAndPolymorphismBasics.scala -> scala
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/TypeAndPolymorphismBasics.scala -> size
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/TypeAndPolymorphismBasics.scala -> sound
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/TypeAndPolymorphismBasics.scala -> things
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/TypeAndPolymorphismBasics.scala -> x
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/TypeAndPolymorphismBasics.scala -> x2
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/TypeAndPolymorphismBasics.scala -> x3
 product stamps:
-40 items
-/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/BasicDataStructures$$anonfun$1.class -> lastModified(1432155408000)
-/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/BasicDataStructures$$anonfun$2.class -> lastModified(1432155408000)
-/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/BasicDataStructures$$anonfun$3.class -> lastModified(1432155408000)
-/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/BasicDataStructures$$anonfun$4.class -> lastModified(1432155408000)
-/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/BasicDataStructures$$anonfun$5.class -> lastModified(1432155408000)
-/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/BasicDataStructures$$anonfun$6.class -> lastModified(1432155408000)
-/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/BasicDataStructures$$anonfun$7.class -> lastModified(1432155408000)
-/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/BasicDataStructures$$anonfun$8.class -> lastModified(1432155408000)
-/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/BasicDataStructures$$anonfun$9.class -> lastModified(1432155408000)
-/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/BasicDataStructures$.class -> lastModified(1432155408000)
-/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/BasicDataStructures$Option.class -> lastModified(1432155408000)
-/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/BasicDataStructures.class -> lastModified(1432155408000)
-/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/Basics$$anonfun$1.class -> lastModified(1432155408000)
-/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/Basics$$anonfun$2.class -> lastModified(1432155408000)
-/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/Basics$$anonfun$3.class -> lastModified(1432155408000)
-/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/Basics$$anonfun$5.class -> lastModified(1432155408000)
-/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/Basics$$anonfun$capitalizeAll$1.class -> lastModified(1432155408000)
-/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/Basics$.class -> lastModified(1432155408000)
-/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/Basics$BMW.class -> lastModified(1432155408000)
-/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/Basics$C$$anonfun$4.class -> lastModified(1432155408000)
-/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/Basics$C.class -> lastModified(1432155408000)
-/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/Basics$Cache.class -> lastModified(1432155408000)
-/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/Basics$Calculator.class -> lastModified(1432155408000)
-/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/Basics$Calculator2.class -> lastModified(1432155408000)
-/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/Basics$Car.class -> lastModified(1432155408000)
-/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/Basics$Circle.class -> lastModified(1432155408000)
-/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/Basics$EvenMoreScientificCalculator.class -> lastModified(1432155408000)
-/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/Basics$ScientificCalculator.class -> lastModified(1432155408000)
-/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/Basics$Shape.class -> lastModified(1432155408000)
-/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/Basics$Shiny.class -> lastModified(1432155408000)
-/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/Basics.class -> lastModified(1432155408000)
-/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/BasicsContinued$.class -> lastModified(1432155408000)
-/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/BasicsContinued$AddOne.class -> lastModified(1432155408000)
-/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/BasicsContinued$Bar.class -> lastModified(1432155408000)
-/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/BasicsContinued$CompObject$.class -> lastModified(1432155408000)
-/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/BasicsContinued$CompObject.class -> lastModified(1432155408000)
-/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/BasicsContinued$Timer$.class -> lastModified(1432155408000)
-/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/BasicsContinued$newCalculator$.class -> lastModified(1432155408000)
-/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/BasicsContinued$newCalculator.class -> lastModified(1432155408000)
-/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/BasicsContinued.class -> lastModified(1432155408000)
+84 items
+/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/AdvancedTypes$$anon$1.class -> lastModified(1432236883000)
+/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/AdvancedTypes$$anon$2.class -> lastModified(1432236883000)
+/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/AdvancedTypes$$anon$3.class -> lastModified(1432236883000)
+/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/AdvancedTypes$$anon$4.class -> lastModified(1432236883000)
+/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/AdvancedTypes$$anonfun$1.class -> lastModified(1432236883000)
+/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/AdvancedTypes$.class -> lastModified(1432236883000)
+/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/AdvancedTypes$Container.class -> lastModified(1432236883000)
+/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/AdvancedTypes$Container1.class -> lastModified(1432236883000)
+/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/AdvancedTypes$Container2.class -> lastModified(1432236883000)
+/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/AdvancedTypes.class -> lastModified(1432236883000)
+/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/BasicDataStructures$$anonfun$1.class -> lastModified(1432236883000)
+/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/BasicDataStructures$$anonfun$10.class -> lastModified(1432236883000)
+/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/BasicDataStructures$$anonfun$11.class -> lastModified(1432236883000)
+/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/BasicDataStructures$$anonfun$12.class -> lastModified(1432236883000)
+/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/BasicDataStructures$$anonfun$13$$anonfun$apply$1.class -> lastModified(1432236883000)
+/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/BasicDataStructures$$anonfun$13.class -> lastModified(1432236883000)
+/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/BasicDataStructures$$anonfun$14.class -> lastModified(1432236883000)
+/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/BasicDataStructures$$anonfun$15.class -> lastModified(1432236883000)
+/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/BasicDataStructures$$anonfun$2.class -> lastModified(1432236883000)
+/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/BasicDataStructures$$anonfun$3.class -> lastModified(1432236883000)
+/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/BasicDataStructures$$anonfun$4.class -> lastModified(1432236883000)
+/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/BasicDataStructures$$anonfun$5.class -> lastModified(1432236883000)
+/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/BasicDataStructures$$anonfun$6.class -> lastModified(1432236883000)
+/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/BasicDataStructures$$anonfun$7.class -> lastModified(1432236883000)
+/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/BasicDataStructures$$anonfun$8.class -> lastModified(1432236883000)
+/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/BasicDataStructures$$anonfun$9.class -> lastModified(1432236883000)
+/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/BasicDataStructures$$anonfun$ourMap$1.class -> lastModified(1432236883000)
+/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/BasicDataStructures$.class -> lastModified(1432236883000)
+/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/BasicDataStructures$Option.class -> lastModified(1432236883000)
+/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/BasicDataStructures.class -> lastModified(1432236883000)
+/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/Basics$$anonfun$1.class -> lastModified(1432236883000)
+/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/Basics$$anonfun$2.class -> lastModified(1432236883000)
+/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/Basics$$anonfun$3.class -> lastModified(1432236883000)
+/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/Basics$$anonfun$5.class -> lastModified(1432236883000)
+/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/Basics$$anonfun$capitalizeAll$1.class -> lastModified(1432236883000)
+/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/Basics$.class -> lastModified(1432236883000)
+/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/Basics$BMW.class -> lastModified(1432236883000)
+/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/Basics$C$$anonfun$4.class -> lastModified(1432236883000)
+/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/Basics$C.class -> lastModified(1432236883000)
+/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/Basics$Cache.class -> lastModified(1432236883000)
+/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/Basics$Calculator.class -> lastModified(1432236883000)
+/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/Basics$Calculator2.class -> lastModified(1432236883000)
+/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/Basics$Car.class -> lastModified(1432236883000)
+/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/Basics$Circle.class -> lastModified(1432236883000)
+/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/Basics$EvenMoreScientificCalculator.class -> lastModified(1432236883000)
+/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/Basics$ScientificCalculator.class -> lastModified(1432236883000)
+/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/Basics$Shape.class -> lastModified(1432236883000)
+/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/Basics$Shiny.class -> lastModified(1432236883000)
+/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/Basics.class -> lastModified(1432236883000)
+/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/BasicsContinued$.class -> lastModified(1432236883000)
+/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/BasicsContinued$AddOne.class -> lastModified(1432236883000)
+/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/BasicsContinued$Bar.class -> lastModified(1432236883000)
+/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/BasicsContinued$CompObject$.class -> lastModified(1432236883000)
+/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/BasicsContinued$CompObject.class -> lastModified(1432236883000)
+/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/BasicsContinued$Timer$.class -> lastModified(1432236883000)
+/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/BasicsContinued$newCalculator$.class -> lastModified(1432236883000)
+/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/BasicsContinued$newCalculator.class -> lastModified(1432236883000)
+/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/BasicsContinued.class -> lastModified(1432236883000)
+/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/FunctionComposition$$anonfun$1.class -> lastModified(1432236883000)
+/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/FunctionComposition$$anonfun$2.class -> lastModified(1432236883000)
+/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/FunctionComposition$$anonfun$3.class -> lastModified(1432236883000)
+/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/FunctionComposition$$anonfun$4.class -> lastModified(1432236883000)
+/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/FunctionComposition$$anonfun$5.class -> lastModified(1432236883000)
+/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/FunctionComposition$$anonfun$6.class -> lastModified(1432236883000)
+/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/FunctionComposition$$anonfun$7.class -> lastModified(1432236883000)
+/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/FunctionComposition$$anonfun$8.class -> lastModified(1432236883000)
+/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/FunctionComposition$$anonfun$9.class -> lastModified(1432236883000)
+/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/FunctionComposition$.class -> lastModified(1432236883000)
+/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/FunctionComposition$PhoneExt$.class -> lastModified(1432236883000)
+/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/FunctionComposition$PhoneExt.class -> lastModified(1432236883000)
+/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/FunctionComposition.class -> lastModified(1432236883000)
+/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/SimpleParsed$.class -> lastModified(1432237740000)
+/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/SimpleParsed.class -> lastModified(1432237740000)
+/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/SimpleParser.class -> lastModified(1432237740000)
+/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/TypeAndPolymorphismBasics$$anonfun$1.class -> lastModified(1432236883000)
+/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/TypeAndPolymorphismBasics$$anonfun$biophony$1.class -> lastModified(1432236883000)
+/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/TypeAndPolymorphismBasics$$anonfun$hashcodes$1.class -> lastModified(1432236883000)
+/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/TypeAndPolymorphismBasics$.class -> lastModified(1432236883000)
+/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/TypeAndPolymorphismBasics$Animal.class -> lastModified(1432236883000)
+/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/TypeAndPolymorphismBasics$Bird.class -> lastModified(1432236883000)
+/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/TypeAndPolymorphismBasics$Chicken.class -> lastModified(1432236883000)
+/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/TypeAndPolymorphismBasics$Contravariant.class -> lastModified(1432236883000)
+/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/TypeAndPolymorphismBasics$Covariant.class -> lastModified(1432236883000)
+/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes/TypeAndPolymorphismBasics.class -> lastModified(1432236883000)
 source stamps:
-3 items
-/home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> hash(17342f6d41a9e725b7f12504910aa4d1f3bf0351)
+7 items
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/AdvancedTypes.scala -> hash(6433328b176d607ab96582d9ef4c5f53f6a3d04f)
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> hash(6d5679be1eb128a1f056729844b567add29b4d29)
 /home/eerilio/Documents/Scala/Tutorial/src/main/scala/Basics.scala -> hash(1fa7529e8c8c72ef65d81dd215ea0cde84ada809)
 /home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicsContinued.scala -> hash(42cd2ce2a56edf63bee99872cc67ab7950da07e5)
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/FunctionComposition.scala -> hash(b430f5679d16cea43c913519b60edb48a8c8881d)
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/SimpleParser.scala -> hash(8aac8bdcaaf73aa94554de90065462e7e09fe178)
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/TypeAndPolymorphismBasics.scala -> hash(e9c934e903684bd599c1a4da5472eefc838608e9)
 binary stamps:
 2 items
 /root/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar -> lastModified(1424912463000)
@@ -354,27 +717,45 @@ class names:
 /root/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar -> scala.runtime.AbstractFunction2
 /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar -> java.lang.Object
 internal apis:
-3 items
+7 items
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/AdvancedTypes.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCVTEY6AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAADc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwch4RInQADWxpc3RDb250YWluZXJzcQB+AAvv4Oi8dAAIc3RyVG9JbnRzcQB+AAu8lLq0dAAPb3B0aW9uQ29udGFpbmVydXEAfgAJAAAAH3NxAH4AC4MJR8x0AAZub3RpZnlzcQB+AAs1aEKJdAAEd2FpdHNxAH4AC3yvOtd0AA0kYXNJbnN0YW5jZU9mc3EAfgAL3rEH4nQABmVxdWFsc3NxAH4ACwgZdHx0AAF5c3EAfgAL5Q56qXQACkNvbnRhaW5lcjFzcQB+AAvymC8JdAAMYXNJbnN0YW5jZU9mc3EAfgALYwtT53QADHN5bmNocm9uaXplZHNxAH4AC4bXUkx0AA0kaXNJbnN0YW5jZU9mc3EAfgALKFlAXnQACWNvbnRhaW5lcnNxAH4AC5gb5h90AAlub3RpZnlBbGxzcQB+AAvbriGtdAAMaXNJbnN0YW5jZU9mc3EAfgALiejcn3QACkNvbnRhaW5lcjJzcQB+AAtgPIrbdAAJQ29udGFpbmVyc3EAfgALn9Dwo3QABjxpbml0PnNxAH4AC3kZEkV0AAVhZGRJdHNxAH4AC+j1YRB0AAI9PXNxAH4AC1UfUSh0AAVjbG9uZXNxAH4AC66bfVV0AANwdXRzcQB+AAuRgZtddAAIdG9TdHJpbmdzcQB+AAuewtR2dAACIT1zcQB+AAtbPndLdAADZ2V0c3EAfgALlRBEV3QACGdldENsYXNzc3EAfgALM/Z1gXQAAm5lc3EAfgAL0ynTB3QADUFkdmFuY2VkVHlwZXNzcQB+AAv/+6IYdAAIdHVwbGVpemVzcQB+AAvpQg5pdAACZXFzcQB+AAsaVAStdAACIyNzcQB+AAuzut3AdAAIZmluYWxpemVzcQB+AAtd7ugWdAAIaGFzaENvZGVzcQB+AAuroBdJdAADZm9vc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AW3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AAx4cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHEAfgBFdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4Ac3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AcgFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AW0wACWluaGVyaXRlZHEAfgBbTAAHcGFyZW50c3EAfgBbeHEAfgB7c3EAfgByAXVxAH4AVgAAAABwc3EAfgByAXVxAH4AVgAAAABwc3EAfgByAXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAMTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AenQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AenNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AAx4cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4Ak3QABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AlHNxAH4Ah3QAA0FueXNxAH4Ai3NxAH4AjnVxAH4AkQAAAAJzcQB+AJN0AAVzY2FsYXEAfgCacHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTXf4cfZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AAxMAA9zb3VyY2VEaXJlY3RvcnlxAH4ADHhwdABAL2hvbWUvZWVyaWxpby9Eb2N1bWVudHMvU2NhbGEvVHV0b3JpYWwvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFGQzMosXbWB6uWWC2e9MX1P2o9BP
 /home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> 
-rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDlUzuKAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAH3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cAtYbkV0AAh0aW1lc1R3b3NxAH4ADEUBbQF0AAZub3RpZnlzcQB+AAwVxRJJdAAEd2FpdHNxAH4ADDti9np0AA0kYXNJbnN0YW5jZU9mc3EAfgAMj0W4G3QABmVxdWFsc3NxAH4ADNBmEhV0AAhob3N0UG9ydHNxAH4ADIxQIdN0AAxhc0luc3RhbmNlT2ZzcQB+AAzVszY6dAAJaXNEZWZpbmVkc3EAfgAMyu+pS3QAA3NldHNxAH4ADCLkX890AAxzeW5jaHJvbml6ZWRzcQB+AAzgF/9ndAANJGlzSW5zdGFuY2VPZnNxAH4ADDBCdtZ0AAlub3RpZnlBbGxzcQB+AAz7AuxpdAAHbnVtYmVyc3NxAH4ADHUe1Pp0AAxpc0luc3RhbmNlT2ZzcQB+AAxDR2uzdAAHbmV3bnVtc3NxAH4ADJEvEG10AAlnZXRPckVsc2VzcQB+AAypgeI8dAACPT1zcQB+AAwfXXW6dAAFY2xvbmVzcQB+AAx5ZWKSdAAGT3B0aW9uc3EAfgAMP+jIdnQAE0Jhc2ljRGF0YVN0cnVjdHVyZXNzcQB+AAwO3ZttdAAIdG9TdHJpbmdzcQB+AAyj1dxadAACIT1zcQB+AAwT8xXQdAADZ2V0c3EAfgAM85NN23QACGdldENsYXNzc3EAfgAMNKf7AHQABG51bXNzcQB+AAx5RDGcdAACbmVzcQB+AAxGlPCtdAACZXFzcQB+AAySffO3dAACIyNzcQB+AAwL+F3LdAAIZmluYWxpemVzcQB+AAwF+vnJdAAIaGFzaENvZGVzcQB+AAwnbuZIdAAGaXNFdmVuc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AVXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHEAfgA1dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AbXhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AbABwc3EAfgBxc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AFVMAAlpbmhlcml0ZWRxAH4AVUwAB3BhcmVudHNxAH4AVXhxAH4AdXNxAH4AbABwc3EAfgBxdXEAfgBQAAAAAHNxAH4AbABwc3EAfgBxdXEAfgBQAAAAAHNxAH4AbABwc3EAfgBxdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgB0dAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgB0c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgCRdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCSc3EAfgCFdAADQW55c3EAfgCJc3EAfgCMdXEAfgCPAAAAAnNxAH4AkXQABXNjYWxhcQB+AJh1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTXMdQ551cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABAL2hvbWUvZWVyaWxpby9Eb2N1bWVudHMvU2NhbGEvVHV0b3JpYWwvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFBc0L21Bqeclt/ElBJEKpNHzvwNR
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHA9Owo6AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAInNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cAtYbkV0AAh0aW1lc1R3b3NxAH4ADEUBbQF0AAZub3RpZnlzcQB+AAwVxRJJdAAEd2FpdHNxAH4ADDti9np0AA0kYXNJbnN0YW5jZU9mc3EAfgAMj0W4G3QABmVxdWFsc3NxAH4ADNBmEhV0AAhob3N0UG9ydHNxAH4ADIxQIdN0AAxhc0luc3RhbmNlT2ZzcQB+AAzVszY6dAAJaXNEZWZpbmVkc3EAfgAMyu+pS3QAA3NldHNxAH4ADCLkX890AAxzeW5jaHJvbml6ZWRzcQB+AAzgF/9ndAANJGlzSW5zdGFuY2VPZnNxAH4ADEqM+QJ0AA1uZXN0ZWROdW1iZXJzc3EAfgAMMEJ21nQACW5vdGlmeUFsbHNxAH4ADPsC7Gl0AAdudW1iZXJzc3EAfgAMdR7U+nQADGlzSW5zdGFuY2VPZnNxAH4ADPxM1R90AApleHRlbnNpb25zc3EAfgAMQ0drs3QAB25ld251bXNzcQB+AAyRLxBtdAAJZ2V0T3JFbHNlc3EAfgAMqYHiPHQAAj09c3EAfgAMH111unQABWNsb25lc3EAfgAMeWViknQABk9wdGlvbnNxAH4ADD/oyHZ0ABNCYXNpY0RhdGFTdHJ1Y3R1cmVzc3EAfgAMDt2bbXQACHRvU3RyaW5nc3EAfgAMo9XcWnQAAiE9c3EAfgAME/MV0HQAA2dldHNxAH4ADPOTTdt0AAhnZXRDbGFzc3NxAH4ADDSn+wB0AARudW1zc3EAfgAMeUQxnHQAAm5lc3EAfgAMHOLK7nQABm91ck1hcHNxAH4ADEaU8K10AAJlcXNxAH4ADJJ987d0AAIjI3NxAH4ADAv4Xct0AAhmaW5hbGl6ZXNxAH4ADAX6+cl0AAhoYXNoQ29kZXNxAH4ADCdu5kh0AAZpc0V2ZW5zcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBbeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAcQB+ADl1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgBzeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgByAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBbTAAJaW5oZXJpdGVkcQB+AFtMAAdwYXJlbnRzcQB+AFt4cQB+AHtzcQB+AHIBdXEAfgBWAAAAAHBzcQB+AHIBdXEAfgBWAAAAAHBzcQB+AHIBdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgB6dAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgB6c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgCTdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCUc3EAfgCHdAADQW55c3EAfgCLc3EAfgCOdXEAfgCRAAAAAnNxAH4Ak3QABXNjYWxhcQB+AJpwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFNd/hx9nVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEAvaG9tZS9lZXJpbGlvL0RvY3VtZW50cy9TY2FsYS9UdXRvcmlhbC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUbVZ5vh6xKKHwVnKYRLVnrdKbTSk=
 /home/eerilio/Documents/Scala/Tutorial/src/main/scala/Basics.scala -> 
-rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBZl6ZuAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAPHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cA34cbR0AAh0aW1lc1R3b3NxAH4ADM/YwG50AAZub3RpZnlzcQB+AAzvfgMydAABc3NxAH4ADH/pkvJ0AAtDYWxjdWxhdG9yMnNxAH4ADAKz97d0AAR3YWl0c3EAfgAMKDsfSXQABkNpcmNsZXNxAH4ADEIhdyN0AA9zaGluZVJlZnJhY3Rpb25zcQB+AAwgKn4RdAANJGFzSW5zdGFuY2VPZnNxAH4ADHcXXr90AAVDYWNoZXNxAH4ADCxJR890AAdnZXRBcmVhc3EAfgAMsr1gFHQABGZvdXJzcQB+AAwBZ0o+dAAFdGhyZWVzcQB+AAwVOw6fdAAFbW9kZWxzcQB+AAzaK23ZdAAGZXF1YWxzc3EAfgAMtt9JlHQABGZpbmNzcQB+AAyZ2Xb9dAAMYXNJbnN0YW5jZU9mc3EAfgAMPd3uTHQADWNhcGl0YWxpemVBbGxzcQB+AAztbmordAAMc3luY2hyb25pemVkc3EAfgAMeuyq2nQADSRpc0luc3RhbmNlT2ZzcQB+AAwq1jK/dAAEY2FsY3NxAH4ADDIBo7V0AARtaW5jc3EAfgAMh0vVAXQAC2V4cHJlc3Npb25zc3EAfgAMW7CNMnQABWNvbG9yc3EAfgAM2Sk6NXQABWJyYW5kc3EAfgAMh+CoWXQACW5vdGlmeUFsbHNxAH4ADPR3MOt0AARtdWx0c3EAfgAMR/zjtXQADGlzSW5zdGFuY2VPZnNxAH4ADKZgF2J0AAVjYWxjMnNxAH4ADHfhy5J0AAVTaGFwZXNxAH4ADPfU+gp0AAY8aW5pdD5zcQB+AAzkruqqdAAUU2NpZW50aWZpY0NhbGN1bGF0b3JzcQB+AAwri/8KdAAFU2hpbnlzcQB+AAwbqGK5dAADQk1Xc3EAfgAMXf0x7nQABWFkZGVyc3EAfgAMatzFlHQAAj09c3EAfgAMAfXo4XQABWNsb25lc3EAfgAM8qUMZHQABmRlbGV0ZXNxAH4ADFzO2Op0AAhtdWx0aXBseXNxAH4ADDJBjFd0ABxFdmVuTW9yZVNjaWVudGlmaWNDYWxjdWxhdG9yc3EAfgAMaYg6uXQAAUNzcQB+AAyHf27HdAADcHV0c3EAfgAMR1Z2iHQABnZhbHVlc3NxAH4ADO/KOLJ0AAZhZGRPbmVzcQB+AAwzkyCAdAAIdG9TdHJpbmdzcQB+AAwkI6V2dAACIT1zcQB+AAzCF6N9dAABY3NxAH4ADEXOSBN0AANnZXRzcQB+AAzQ8VAIdAAIZ2V0Q2xhc3NzcQB+AAwVsEd0dAADYWNjc3EAfgAMjxiO9HQAAm5lc3EAfgAMfeAb/nQABkJhc2ljc3NxAH4ADITcWpN0AANhZGRzcQB+AAxJ51jLdAAEYWRkMnNxAH4ADBBEhu90AAJlcXNxAH4ADI/kL/h0AApDYWxjdWxhdG9yc3EAfgAMzgu9cHQAA2xvZ3NxAH4ADJjrj9B0AANDYXJzcQB+AAwyH7BVdAACIyNzcQB+AAz/HpB8dAAIZmluYWxpemVzcQB+AAwUc32RdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgCPeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAcQB+AHN1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgCneHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgCmAHBzcQB+AKtzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4Aj0wACWluaGVyaXRlZHEAfgCPTAAHcGFyZW50c3EAfgCPeHEAfgCvc3EAfgCmAHBzcQB+AKt1cQB+AIoAAAAAc3EAfgCmAHBzcQB+AKt1cQB+AIoAAAAAc3EAfgCmAHBzcQB+AKt1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AK50AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AK5zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AMt0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AMxzcQB+AL90AANBbnlzcQB+AMNzcQB+AMZ1cQB+AMkAAAACc3EAfgDLdAAFc2NhbGFxAH4A0nVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFNcx1DnnVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEAvaG9tZS9lZXJpbGlvL0RvY3VtZW50cy9TY2FsYS9UdXRvcmlhbC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUH6dSnoyMcu9l2B3SFeoM3oStqAk=
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBZl6ZuAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAPHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cA34cbR0AAh0aW1lc1R3b3NxAH4ADM/YwG50AAZub3RpZnlzcQB+AAzvfgMydAABc3NxAH4ADH/pkvJ0AAtDYWxjdWxhdG9yMnNxAH4ADAKz97d0AAR3YWl0c3EAfgAMKDsfSXQABkNpcmNsZXNxAH4ADEIhdyN0AA9zaGluZVJlZnJhY3Rpb25zcQB+AAwgKn4RdAANJGFzSW5zdGFuY2VPZnNxAH4ADHcXXr90AAVDYWNoZXNxAH4ADCxJR890AAdnZXRBcmVhc3EAfgAMsr1gFHQABGZvdXJzcQB+AAwBZ0o+dAAFdGhyZWVzcQB+AAwVOw6fdAAFbW9kZWxzcQB+AAzaK23ZdAAGZXF1YWxzc3EAfgAMtt9JlHQABGZpbmNzcQB+AAyZ2Xb9dAAMYXNJbnN0YW5jZU9mc3EAfgAMPd3uTHQADWNhcGl0YWxpemVBbGxzcQB+AAztbmordAAMc3luY2hyb25pemVkc3EAfgAMeuyq2nQADSRpc0luc3RhbmNlT2ZzcQB+AAwq1jK/dAAEY2FsY3NxAH4ADDIBo7V0AARtaW5jc3EAfgAMh0vVAXQAC2V4cHJlc3Npb25zc3EAfgAMW7CNMnQABWNvbG9yc3EAfgAM2Sk6NXQABWJyYW5kc3EAfgAMh+CoWXQACW5vdGlmeUFsbHNxAH4ADPR3MOt0AARtdWx0c3EAfgAMR/zjtXQADGlzSW5zdGFuY2VPZnNxAH4ADKZgF2J0AAVjYWxjMnNxAH4ADHfhy5J0AAVTaGFwZXNxAH4ADPfU+gp0AAY8aW5pdD5zcQB+AAzkruqqdAAUU2NpZW50aWZpY0NhbGN1bGF0b3JzcQB+AAwri/8KdAAFU2hpbnlzcQB+AAwbqGK5dAADQk1Xc3EAfgAMXf0x7nQABWFkZGVyc3EAfgAMatzFlHQAAj09c3EAfgAMAfXo4XQABWNsb25lc3EAfgAM8qUMZHQABmRlbGV0ZXNxAH4ADFzO2Op0AAhtdWx0aXBseXNxAH4ADDJBjFd0ABxFdmVuTW9yZVNjaWVudGlmaWNDYWxjdWxhdG9yc3EAfgAMaYg6uXQAAUNzcQB+AAyHf27HdAADcHV0c3EAfgAMR1Z2iHQABnZhbHVlc3NxAH4ADO/KOLJ0AAZhZGRPbmVzcQB+AAwzkyCAdAAIdG9TdHJpbmdzcQB+AAwkI6V2dAACIT1zcQB+AAzCF6N9dAABY3NxAH4ADEXOSBN0AANnZXRzcQB+AAzQ8VAIdAAIZ2V0Q2xhc3NzcQB+AAwVsEd0dAADYWNjc3EAfgAMjxiO9HQAAm5lc3EAfgAMfeAb/nQABkJhc2ljc3NxAH4ADITcWpN0AANhZGRzcQB+AAxJ51jLdAAEYWRkMnNxAH4ADBBEhu90AAJlcXNxAH4ADI/kL/h0AApDYWxjdWxhdG9yc3EAfgAMzgu9cHQAA2xvZ3NxAH4ADJjrj9B0AANDYXJzcQB+AAwyH7BVdAACIyNzcQB+AAz/HpB8dAAIZmluYWxpemVzcQB+AAwUc32RdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgCPeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAcQB+AHN1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AKYBc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AI9MAAlpbmhlcml0ZWRxAH4Aj0wAB3BhcmVudHNxAH4Aj3hxAH4ArXNxAH4ApgF1cQB+AIoAAAAAcHNxAH4ApgF1cQB+AIoAAAAAcHNxAH4ApgF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AKx0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AKxzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AMV0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AMZzcQB+ALl0AANBbnlzcQB+AL1zcQB+AMB1cQB+AMMAAAACc3EAfgDFdAAFc2NhbGFxAH4AzHBwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAU13+HH2dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAQC9ob21lL2VlcmlsaW8vRG9jdW1lbnRzL1NjYWxhL1R1dG9yaWFsL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQfp1KejIxy72XYHdIV6gzehK2oCQ==
 /home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicsContinued.scala -> 
-rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHB1Vt1KAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAANnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cNgxgHB0AAZub3RpZnlzcQB+AAyhPl2edAAHdW5hcHBseXNxAH4ADKrpM3x0AAdwbHVzT25lc3EAfgAMCXyUhnQAB2N1cnJpZWRzcQB+AAxIL/mgdAAIY2FsY1R5cGVzcQB+AAxkb0q9dAAFY291bnRzcQB+AAxMnDIWdAANbmV3Q2FsY3VsYXRvcnNxAH4ADBcXCKZ0AAR3YWl0c3EAfgAMGoGcIHQADmNvcHkkZGVmYXVsdCQyc3EAfgAM2nxlG3QADSRhc0luc3RhbmNlT2ZzcQB+AAx/TVmMdAAIbmV3aHAyMGJzcQB+AAxuf3GddAAHY29tcG9zZXNxAH4ADAnoB210AAVtb2RlbHNxAH4ADCafwSh0AAxwcm9kdWN0QXJpdHlzcQB+AAwaRiUudAAGZXF1YWxzc3EAfgAMLHypU3QADGFzSW5zdGFuY2VPZnNxAH4ADNSiHsZ0AAxzeW5jaHJvbml6ZWRzcQB+AAz8I9WRdAANJGlzSW5zdGFuY2VPZnNxAH4ADLNLg3l0AAdhbmRUaGVuc3EAfgAMe4GbD3QABnR1cGxlZHNxAH4ADDnLIAt0AAhjYW5FcXVhbHNxAH4ADElMmUJ0AA1wcm9kdWN0UHJlZml4c3EAfgAMbB0cqXQABWJyYW5kc3EAfgAMzD0HX3QAD0Jhc2ljc0NvbnRpbnVlZHNxAH4ADElVb/R0AAlub3RpZnlBbGxzcQB+AAznKpK8dAALcmVhZFJlc29sdmVzcQB+AAwe4BQCdAAMaXNJbnN0YW5jZU9mc3EAfgAMTPndSnQABVRpbWVyc3EAfgAMGySBnXQABWhwMjBCc3EAfgAMqUdfqnQABjxpbml0PnNxAH4ADBtW7ZJ0AAVhcHBseXNxAH4ADF/AP8x0AAVocDIwYnNxAH4ADIRoLph0AAI9PXNxAH4ADOTPABd0AANCYXJzcQB+AAznvfNWdAAFY2xvbmVzcQB+AAzAt+gtdAAFdGltZXNzcQB+AAwpeYwWdAADYmFyc3EAfgAMq99p83QABkFkZE9uZXNxAH4ADGOK8ul0AARjb3B5c3EAfgAMx118LXQACG5ld2hwMzBic3EAfgAML7ZFKHQACHRvU3RyaW5nc3EAfgAMGGGbwnQAAiE9c3EAfgAMjreEZXQABmJpZ2dlcnNxAH4ADNa9VR90AAhnZXRDbGFzc3NxAH4ADOdaoEp0AAxjdXJyZW50Q291bnRzcQB+AAxolbaDdAAOY29weSRkZWZhdWx0JDFzcQB+AAxsgJgfdAAKQ29tcE9iamVjdHNxAH4ADBwEx250AAJuZXNxAH4ADLpfTCh0AAJlcXNxAH4ADISHmVF0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAysc+NQdAACIyNzcQB+AAy/2DHidAAIZmluYWxpemVzcQB+AAz0Aje7dAAOcHJvZHVjdEVsZW1lbnRzcQB+AAwXyRG0dAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgCDeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAcQB+AD11cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgCbeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgCaAHBzcQB+AJ9zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4Ag0wACWluaGVyaXRlZHEAfgCDTAAHcGFyZW50c3EAfgCDeHEAfgCjc3EAfgCaAHBzcQB+AJ91cQB+AH4AAAAAc3EAfgCaAHBzcQB+AJ91cQB+AH4AAAAAc3EAfgCaAHBzcQB+AJ91cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AKJ0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AKJzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AL90AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AMBzcQB+ALN0AANBbnlzcQB+ALdzcQB+ALp1cQB+AL0AAAACc3EAfgC/dAAFc2NhbGFxAH4AxnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFNcx1DnnVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEAvaG9tZS9lZXJpbGlvL0RvY3VtZW50cy9TY2FsYS9UdXRvcmlhbC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUQs0s4qVu32O+6ZhyzGereVDaB+U=
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHB1Vt1KAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAANnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cNgxgHB0AAZub3RpZnlzcQB+AAyhPl2edAAHdW5hcHBseXNxAH4ADKrpM3x0AAdwbHVzT25lc3EAfgAMCXyUhnQAB2N1cnJpZWRzcQB+AAxIL/mgdAAIY2FsY1R5cGVzcQB+AAxkb0q9dAAFY291bnRzcQB+AAxMnDIWdAANbmV3Q2FsY3VsYXRvcnNxAH4ADBcXCKZ0AAR3YWl0c3EAfgAMGoGcIHQADmNvcHkkZGVmYXVsdCQyc3EAfgAM2nxlG3QADSRhc0luc3RhbmNlT2ZzcQB+AAx/TVmMdAAIbmV3aHAyMGJzcQB+AAxuf3GddAAHY29tcG9zZXNxAH4ADAnoB210AAVtb2RlbHNxAH4ADCafwSh0AAxwcm9kdWN0QXJpdHlzcQB+AAwaRiUudAAGZXF1YWxzc3EAfgAMLHypU3QADGFzSW5zdGFuY2VPZnNxAH4ADNSiHsZ0AAxzeW5jaHJvbml6ZWRzcQB+AAz8I9WRdAANJGlzSW5zdGFuY2VPZnNxAH4ADLNLg3l0AAdhbmRUaGVuc3EAfgAMe4GbD3QABnR1cGxlZHNxAH4ADDnLIAt0AAhjYW5FcXVhbHNxAH4ADElMmUJ0AA1wcm9kdWN0UHJlZml4c3EAfgAMbB0cqXQABWJyYW5kc3EAfgAMzD0HX3QAD0Jhc2ljc0NvbnRpbnVlZHNxAH4ADElVb/R0AAlub3RpZnlBbGxzcQB+AAznKpK8dAALcmVhZFJlc29sdmVzcQB+AAwe4BQCdAAMaXNJbnN0YW5jZU9mc3EAfgAMTPndSnQABVRpbWVyc3EAfgAMGySBnXQABWhwMjBCc3EAfgAMqUdfqnQABjxpbml0PnNxAH4ADBtW7ZJ0AAVhcHBseXNxAH4ADF/AP8x0AAVocDIwYnNxAH4ADIRoLph0AAI9PXNxAH4ADOTPABd0AANCYXJzcQB+AAznvfNWdAAFY2xvbmVzcQB+AAzAt+gtdAAFdGltZXNzcQB+AAwpeYwWdAADYmFyc3EAfgAMq99p83QABkFkZE9uZXNxAH4ADGOK8ul0AARjb3B5c3EAfgAMx118LXQACG5ld2hwMzBic3EAfgAML7ZFKHQACHRvU3RyaW5nc3EAfgAMGGGbwnQAAiE9c3EAfgAMjreEZXQABmJpZ2dlcnNxAH4ADNa9VR90AAhnZXRDbGFzc3NxAH4ADOdaoEp0AAxjdXJyZW50Q291bnRzcQB+AAxolbaDdAAOY29weSRkZWZhdWx0JDFzcQB+AAxsgJgfdAAKQ29tcE9iamVjdHNxAH4ADBwEx250AAJuZXNxAH4ADLpfTCh0AAJlcXNxAH4ADISHmVF0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAysc+NQdAACIyNzcQB+AAy/2DHidAAIZmluYWxpemVzcQB+AAz0Aje7dAAOcHJvZHVjdEVsZW1lbnRzcQB+AAwXyRG0dAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgCDeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAcQB+AD11cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AJoBc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AINMAAlpbmhlcml0ZWRxAH4Ag0wAB3BhcmVudHNxAH4Ag3hxAH4AoXNxAH4AmgF1cQB+AH4AAAAAcHNxAH4AmgF1cQB+AH4AAAAAcHNxAH4AmgF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AKB0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AKBzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+ALl0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+ALpzcQB+AK10AANBbnlzcQB+ALFzcQB+ALR1cQB+ALcAAAACc3EAfgC5dAAFc2NhbGFxAH4AwHBwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAU13+HH2dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAQC9ob21lL2VlcmlsaW8vRG9jdW1lbnRzL1NjYWxhL1R1dG9yaWFsL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABRCzSzipW7fY77pmHLMZ6t5UNoH5Q==
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/FunctionComposition.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAvSrBdAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAL3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cIWNtWt0AAZub3RpZnlzcQB+AAz2xYDmdAAHdW5hcHBseXNxAH4ADPLynFV0AAdjdXJyaWVkc3EAfgAM0eN8KXQABG5hbWVzcQB+AAwLaOTgdAAId2lsZGNhcmRzcQB+AAwhx6W+dAAEd2FpdHNxAH4ADEUseYh0ABNGdW5jdGlvbkNvbXBvc2l0aW9uc3EAfgAMTy0wTHQADmNvcHkkZGVmYXVsdCQyc3EAfgAMdsuwUXQADSRhc0luc3RhbmNlT2ZzcQB+AAzQxL/1dAAHcGFydGlhbHNxAH4ADH76kbx0AAV0aHJlZXNxAH4ADKH7E850AAxwcm9kdWN0QXJpdHlzcQB+AAySqBSNdAAGZXF1YWxzc3EAfgAMpVEL1HQADGFzSW5zdGFuY2VPZnNxAH4ADJ51DId0AAFmc3EAfgAMdUTDHHQADHN5bmNocm9uaXplZHNxAH4ADK1GjF90AAN0d29zcQB+AAxF1ijkdAANJGlzSW5zdGFuY2VPZnNxAH4ADBDNC2t0AAZ0dXBsZWRzcQB+AAzsLjS+dAAIY2FuRXF1YWxzcQB+AAwZAaLWdAANcHJvZHVjdFByZWZpeHNxAH4ADG0ZNIx0AAlub3RpZnlBbGxzcQB+AAxqIMludAALcmVhZFJlc29sdmVzcQB+AAz53grTdAAMaXNJbnN0YW5jZU9mc3EAfgAMMpQWhHQACmV4dGVuc2lvbnNzcQB+AAwYmzAfdAAGPGluaXQ+c3EAfgAM/Af8anQACWZDb21wb3NlR3NxAH4ADB8fhqh0AAVhcHBseXNxAH4ADJwpUUh0AAFnc3EAfgAMU4lndnQAAj09c3EAfgAMV0PAbHQABWNsb25lc3EAfgAMQEwywnQABGNvcHlzcQB+AAweew2FdAAIdG9TdHJpbmdzcQB+AAxBa869dAADZXh0c3EAfgAM6ZOck3QAAiE9c3EAfgAM0dCjIHQACGdldENsYXNzc3EAfgAM5nhfw3QADmNvcHkkZGVmYXVsdCQxc3EAfgAMQ81DaXQAAm5lc3EAfgAMJ53a/nQACWZBbmRUaGVuR3NxAH4ADOEx9G10AAhQaG9uZUV4dHNxAH4ADEvNOeN0AAJlcXNxAH4ADHqLc0V0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAz2f2/VdAADb25lc3EAfgAM38FbBnQAAiMjc3EAfgAMw3+4n3QACGZpbmFsaXplc3EAfgAM5AU3BHQADnByb2R1Y3RFbGVtZW50c3EAfgAMz4irH3QACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AdXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHEAfgAbdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AjXhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AjAFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AdUwACWluaGVyaXRlZHEAfgB1TAAHcGFyZW50c3EAfgB1eHEAfgCVc3EAfgCMAXVxAH4AcAAAAABwc3EAfgCMAXVxAH4AcAAAAABwc3EAfgCMAXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AlHQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AlHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4ArXQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4ArnNxAH4AoXQAA0FueXNxAH4ApXNxAH4AqHVxAH4AqwAAAAJzcQB+AK10AAVzY2FsYXEAfgC0cHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTXf4cfZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABAL2hvbWUvZWVyaWxpby9Eb2N1bWVudHMvU2NhbGEvVHV0b3JpYWwvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFLQw9WedFs6kPJE1GbYO20ioyIgd
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/SimpleParser.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHA7JZ6rAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAInNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cKpBuMp0AAZub3RpZnlzcQB+AAwuiuR1dAAEdGVzdHNxAH4ADNOzR750AAR3YWl0c3EAfgAMXZBqmnQADFNpbXBsZVBhcnNlcnNxAH4ADNc9Sl50AA5jb3B5JGRlZmF1bHQkMnNxAH4ADA//5ct0AA0kYXNJbnN0YW5jZU9mc3EAfgAMP8W/M3QADHByb2R1Y3RBcml0eXNxAH4ADHAERvJ0AAZlcXVhbHNzcQB+AAywa4UzdAAMYXNJbnN0YW5jZU9mc3EAfgAMBZtgsXQADHN5bmNocm9uaXplZHNxAH4ADNwlGm90AA0kaXNJbnN0YW5jZU9mc3EAfgAMwxje4nQACGNhbkVxdWFsc3EAfgAMD9wBe3QADXByb2R1Y3RQcmVmaXhzcQB+AAyaw2IWdAAJbm90aWZ5QWxsc3EAfgAMbpXcTnQADFNpbXBsZVBhcnNlZHNxAH4ADPTWSpF0AAxpc0luc3RhbmNlT2ZzcQB+AAyt0V2sdAAGPGluaXQ+c3EAfgAMx5MjrXQAAmlkc3EAfgAM9dfgP3QACnR3ZWV0UmVnZXhzcQB+AAz8eiCkdAAFcGFyc2VzcQB+AAxso2xUdAACPT1zcQB+AAyAhbnbdAAFY2xvbmVzcQB+AAwr+1N9dAAEY29weXNxAH4ADKpB1b10AAh0b1N0cmluZ3NxAH4ADGXO68F0AAIhPXNxAH4ADD3M3vd0AAhnZXRDbGFzc3NxAH4ADOD0sAR0AA5jb3B5JGRlZmF1bHQkMXNxAH4ADBET3A10AAJuZXNxAH4ADOl33Fx0AAJlcXNxAH4ADL0Rq9J0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAy2b4k1dAACIyNzcQB+AAwi+peodAAIZmluYWxpemVzcQB+AAxskHK/dAAOcHJvZHVjdEVsZW1lbnRzcQB+AAzcUDokdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBbeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAcQB+ACt1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AHN4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AHIAcHNxAH4Ad3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBbTAAJaW5oZXJpdGVkcQB+AFtMAAdwYXJlbnRzcQB+AFt4cQB+AHtzcQB+AHIAcHNxAH4Ad3VxAH4AVgAAAABzcQB+AHIAcHNxAH4Ad3VxAH4AVgAAAABzcQB+AHIAcHNxAH4Ad3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAAGc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AenQADFNlcmlhbGl6YWJsZXNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AenNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AmHNxAH4Ai3EAfgCOc3EAfgCPc3EAfgCSdXEAfgCVAAAAA3NxAH4Al3QABGphdmFzcQB+AJd0AAJpb3EAfgCcc3EAfgCLdAAHUHJvZHVjdHEAfgCRc3EAfgCLdAAGRXF1YWxzcQB+AJFzcQB+AIt0AAZPYmplY3RzcQB+AI9zcQB+AJJ1cQB+AJUAAAADc3EAfgCXcQB+AKJzcQB+AJd0AARsYW5ncQB+AJxzcQB+AIt0AANBbnlxAH4AkXNxAH4AWHEAfgBldXEAfgBmAAAAAHNxAH4AaABxAH4AFXVxAH4AagAAAABxAH4AbnVxAH4AcAAAAABzcQB+AHIAcHNxAH4Ad3EAfgB8c3EAfgByAHBzcQB+AHdzcQB+AH9zcQB+AHIAcHNxAH4Ad3VxAH4AVgAAAABzcQB+AHIAcHNxAH4Ad3VxAH4AVgAAAABzcQB+AHIAcHNxAH4Ad3VxAH4AiQAAAAJzcQB+AItxAH4AqnNxAH4Aj3NxAH4AknVxAH4AlQAAAANzcQB+AJdxAH4AonNxAH4Al3EAfgCwcQB+AJxzcQB+AItxAH4AsnNxAH4Aj3NxAH4AknVxAH4AlQAAAAJzcQB+AJdxAH4AmnEAfgCcdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAU14BY5wdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAQC9ob21lL2VlcmlsaW8vRG9jdW1lbnRzL1NjYWxhL1R1dG9yaWFsL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABSKrIvcqvc6qUVU3pAGVGLn4J/heA==
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/TypeAndPolymorphismBasics.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBLt8ybAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAKXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cMa7l5R0AAZjb3VudDJzcQB+AAxZuiGmdAAGbm90aWZ5c3EAfgAMAuyiq3QACUNvdmFyaWFudHNxAH4ADAdKuHN0AAF4c3EAfgAMGdiBY3QABWNvdW50c3EAfgAMofLhl3QABHdhaXRzcQB+AAxx7QEadAANJGFzSW5zdGFuY2VPZnNxAH4ADOPAVbV0AAdDaGlja2Vuc3EAfgAMMGWXEXQABmVxdWFsc3NxAH4ADB+SyiJ0AAJ4M3NxAH4ADL8NCrJ0AAZ0b0xpc3RzcQB+AAzMZ52OdAAMYXNJbnN0YW5jZU9mc3EAfgAMcgCQn3QADHN5bmNocm9uaXplZHNxAH4ADGwxh7B0AA0kaXNJbnN0YW5jZU9mc3EAfgAM9CjqvXQACWhhc2hjb2Rlc3NxAH4ADM4OMPh0AA1Db250cmF2YXJpYW50c3EAfgAMTyjnBXQAAngyc3EAfgAMLXP+HXQACW5vdGlmeUFsbHNxAH4ADGSJASh0AAxpc0luc3RhbmNlT2ZzcQB+AAzWcpG/dAACY3ZzcQB+AAw9r19+dAAEQmlyZHNxAH4ADBzNLCJ0AAY8aW5pdD5zcQB+AAzk1PV7dAACaWRzcQB+AAyOBGCRdAAIYmlvcGhvbnlzcQB+AAwGUKB7dAACPT1zcQB+AAz5FivZdAAFY2xvbmVzcQB+AAzN2Y6xdAAIZ2V0VHdlZXRzcQB+AAxOZp5QdAAFc291bmRzcQB+AAxePbMhdAAZVHlwZUFuZFBvbHltb3JwaGlzbUJhc2ljc3NxAH4ADAw+nzJ0AANjdjJzcQB+AAyY0xyhdAAIdG9TdHJpbmdzcQB+AAzUVq6CdAACIT1zcQB+AAyx4povdAAGQW5pbWFsc3EAfgAMomfgNHQABmNvdW50M3NxAH4ADFux0150AAhnZXRDbGFzc3NxAH4ADG6fO3t0AAJuZXNxAH4ADMDLfX50AAVmbG9ja3NxAH4ADJ3ztr10AAJlcXNxAH4ADNRRkSl0AAIjI3NxAH4ADB2pAdl0AAhmaW5hbGl6ZXNxAH4ADBa3ICF0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AGl4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cABxAH4AR3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AIF4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AIABc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AGlMAAlpbmhlcml0ZWRxAH4AaUwAB3BhcmVudHNxAH4AaXhxAH4AiXNxAH4AgAF1cQB+AGQAAAAAcHNxAH4AgAF1cQB+AGQAAAAAcHNxAH4AgAF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AIh0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AIhzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AKF0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AKJzcQB+AJV0AANBbnlzcQB+AJlzcQB+AJx1cQB+AJ8AAAACc3EAfgChdAAFc2NhbGFxAH4AqHBwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAU13+HH2dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAQC9ob21lL2VlcmlsaW8vRG9jdW1lbnRzL1NjYWxhL1R1dG9yaWFsL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABTpyTTpA2hL1ZnBpNpUcu78g4YI6Q==
 external apis:
 0 items
 source infos:
-3 items
+7 items
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/AdvancedTypes.scala -> 
+AAAAAAAAAAA=
 /home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicDataStructures.scala -> 
 AAAAAgAAAQAAABQAIiAgaG9zdFBvcnQuXzEgLy9TdHJpbmcgPSBsb2NhbGhvc3QBAAAB2AEAAAALAQALICAgICAgICAgICABAE8vaG9tZS9lZXJpbGlvL0RvY3VtZW50cy9TY2FsYS9UdXRvcmlhbC9zcmMvbWFpbi9zY2FsYS9CYXNpY0RhdGFTdHJ1Y3R1cmVzLnNjYWxhAQBPL2hvbWUvZWVyaWxpby9Eb2N1bWVudHMvU2NhbGEvVHV0b3JpYWwvc3JjL21haW4vc2NhbGEvQmFzaWNEYXRhU3RydWN0dXJlcy5zY2FsYQBfYSBwdXJlIGV4cHJlc3Npb24gZG9lcyBub3RoaW5nIGluIHN0YXRlbWVudCBwb3NpdGlvbjsgeW91IG1heSBiZSBvbWl0dGluZyBuZWNlc3NhcnkgcGFyZW50aGVzZXMBAAABAAAAFQAYICBob3N0UG9ydC5fMiAvL0ludCA9IDgwAQAAAfsBAAAACwEACyAgICAgICAgICAgAQBPL2hvbWUvZWVyaWxpby9Eb2N1bWVudHMvU2NhbGEvVHV0b3JpYWwvc3JjL21haW4vc2NhbGEvQmFzaWNEYXRhU3RydWN0dXJlcy5zY2FsYQEATy9ob21lL2VlcmlsaW8vRG9jdW1lbnRzL1NjYWxhL1R1dG9yaWFsL3NyYy9tYWluL3NjYWxhL0Jhc2ljRGF0YVN0cnVjdHVyZXMuc2NhbGEAX2EgcHVyZSBleHByZXNzaW9uIGRvZXMgbm90aGluZyBpbiBzdGF0ZW1lbnQgcG9zaXRpb247IHlvdSBtYXkgYmUgb21pdHRpbmcgbmVjZXNzYXJ5IHBhcmVudGhlc2VzAQAAAAA=
 /home/eerilio/Documents/Scala/Tutorial/src/main/scala/Basics.scala -> 
 AAAABAAAAQAAAAgACSAgICAgIDErMQEAAAB+AQAAAAcBAAcgICAgICAgAQBCL2hvbWUvZWVyaWxpby9Eb2N1bWVudHMvU2NhbGEvVHV0b3JpYWwvc3JjL21haW4vc2NhbGEvQmFzaWNzLnNjYWxhAQBCL2hvbWUvZWVyaWxpby9Eb2N1bWVudHMvU2NhbGEvVHV0b3JpYWwvc3JjL21haW4vc2NhbGEvQmFzaWNzLnNjYWxhAF9hIHB1cmUgZXhwcmVzc2lvbiBkb2VzIG5vdGhpbmcgaW4gc3RhdGVtZW50IHBvc2l0aW9uOyB5b3UgbWF5IGJlIG9taXR0aW5nIG5lY2Vzc2FyeSBwYXJlbnRoZXNlcwEAAAEAAAAbACIgICAgKDIpIC8vZnVuY3Rpb24gd2lsbCByZXR1cm4gMisxAQAAAsQBAAAABQEABSAgICAgAQBCL2hvbWUvZWVyaWxpby9Eb2N1bWVudHMvU2NhbGEvVHV0b3JpYWwvc3JjL21haW4vc2NhbGEvQmFzaWNzLnNjYWxhAQBCL2hvbWUvZWVyaWxpby9Eb2N1bWVudHMvU2NhbGEvVHV0b3JpYWwvc3JjL21haW4vc2NhbGEvQmFzaWNzLnNjYWxhAF9hIHB1cmUgZXhwcmVzc2lvbiBkb2VzIG5vdGhpbmcgaW4gc3RhdGVtZW50IHBvc2l0aW9uOyB5b3UgbWF5IGJlIG9taXR0aW5nIG5lY2Vzc2FyeSBwYXJlbnRoZXNlcwEAAAEAAAA/ABsgICAgY2FsYy5icmFuZCAvL3ZhbHVlIGNhbGwBAAAICgEAAAAJAQAJICAgICAgICAgAQBCL2hvbWUvZWVyaWxpby9Eb2N1bWVudHMvU2NhbGEvVHV0b3JpYWwvc3JjL21haW4vc2NhbGEvQmFzaWNzLnNjYWxhAQBCL2hvbWUvZWVyaWxpby9Eb2N1bWVudHMvU2NhbGEvVHV0b3JpYWwvc3JjL21haW4vc2NhbGEvQmFzaWNzLnNjYWxhAF9hIHB1cmUgZXhwcmVzc2lvbiBkb2VzIG5vdGhpbmcgaW4gc3RhdGVtZW50IHBvc2l0aW9uOyB5b3UgbWF5IGJlIG9taXR0aW5nIG5lY2Vzc2FyeSBwYXJlbnRoZXNlcwEAAAEAAABbACwgICAgYy5maW5jIC8vcmV0dXJucyB0aGUgZnVuY3Rpb24gYXMgYSB2YWx1ZQEAAAsXAQAAAAYBAAYgICAgICABAEIvaG9tZS9lZXJpbGlvL0RvY3VtZW50cy9TY2FsYS9UdXRvcmlhbC9zcmMvbWFpbi9zY2FsYS9CYXNpY3Muc2NhbGEBAEIvaG9tZS9lZXJpbGlvL0RvY3VtZW50cy9TY2FsYS9UdXRvcmlhbC9zcmMvbWFpbi9zY2FsYS9CYXNpY3Muc2NhbGEAX2EgcHVyZSBleHByZXNzaW9uIGRvZXMgbm90aGluZyBpbiBzdGF0ZW1lbnQgcG9zaXRpb247IHlvdSBtYXkgYmUgb21pdHRpbmcgbmVjZXNzYXJ5IHBhcmVudGhlc2VzAQAAAAA=
 /home/eerilio/Documents/Scala/Tutorial/src/main/scala/BasicsContinued.scala -> 
 AAAAAAAAAAA=
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/FunctionComposition.scala -> 
+AAAAAAAAAAA=
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/SimpleParser.scala -> 
+AAAAAAAAAAA=
+/home/eerilio/Documents/Scala/Tutorial/src/main/scala/TypeAndPolymorphismBasics.scala -> 
+AAAAAAAAAAA=
 compilations:
-5 items
+7 items
 0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTXKLAgJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9ob21lL2VlcmlsaW8vRG9jdW1lbnRzL1NjYWxhL1R1dG9yaWFsL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
 1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTXKQRP91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9ob21lL2VlcmlsaW8vRG9jdW1lbnRzL1NjYWxhL1R1dG9yaWFsL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
 2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTXKYMJV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9ob21lL2VlcmlsaW8vRG9jdW1lbnRzL1NjYWxhL1R1dG9yaWFsL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
 3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTXK8gzF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9ob21lL2VlcmlsaW8vRG9jdW1lbnRzL1NjYWxhL1R1dG9yaWFsL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
 4 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTXMdQ551cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9ob21lL2VlcmlsaW8vRG9jdW1lbnRzL1NjYWxhL1R1dG9yaWFsL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+5 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTXf4cfZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9ob21lL2VlcmlsaW8vRG9jdW1lbnRzL1NjYWxhL1R1dG9yaWFsL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+6 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTXgFjnB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQC9ob21lL2VlcmlsaW8vRG9jdW1lbnRzL1NjYWxhL1R1dG9yaWFsL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv

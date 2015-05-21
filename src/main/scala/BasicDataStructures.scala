@@ -87,5 +87,38 @@ object BasicDataStructures {
   newnums.drop(5) //List[Int] = List(6, 7, 8, 9, 10)
   newnums.dropWhile(_ % 2 != 0) //List[Int] = List(2, 3, 4, 5, 6, 7, 8, 9, 10)
 
+  //foldLeft - m acts as an accumulator, n is the value in the list
+  //foldRight - m acts as an accumulator, same as foldLeft but goes top down starting from highest index
+  newnums.foldLeft(0)((m: Int, n: Int) => m + n) //Int = 55
+  newnums.foldRight(0)((m: Int, n: Int) => m + n) //Int = 55
+
+  //flatten - collapses one level of nested structure
+  List(List(1, 2), List(3, 4)).flatten //List(1,2,3,4)
+
+  //flatMap - combines flattening and mapping. Takes a function that works on nested lists and concatenates results
+  val nestedNumbers = List(List(1, 2), List(3, 4))
+  nestedNumbers.flatMap(x => x.map(_ * 2)) //List(2,4,6,8)
+
+
+  //***********Generalized functional combinators***********
+  //you can write own functional combinators
+
+  def ourMap(numbers: List[Int], fn: Int => Int): List[Int] = {
+    numbers.foldRight(List[Int]()) { (x: Int, xs: List[Int]) =>
+      fn(x) :: xs
+    }
+  }
+
+  ourMap(newnums, timesTwo(_)) //List(2, 4, 6, 8, 10, 12, 14, 16, 18, 20)
+
+  //*************************Map?***************************
+  //functional combinators all work on maps, since they can be viewed as list of pairs
+
+  val extensions = Map("steve" -> 100, "bob" -> 101, "joe" -> 201)
+  //filter out all extension less thant 200
+  extensions.filter((namePhone: (String, Int)) => namePhone._2 < 200) //Map((steve,100), (bob,101))
+
+  //we can use pattern matching to pull out the same values
+  extensions.filter({case (name,extension) => extension <200}) //"labels # as extension and returns sets <200
 
 }
