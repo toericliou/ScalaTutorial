@@ -1,25 +1,30 @@
-import org.specs2._
+import org.scalatest.{BeforeAndAfter, FlatSpec}
+
+import scala.collection.mutable.ListBuffer
 
 /**
  * Created by eerilio on 5/22/15.
  */
-class SetupTeardown extends mutable.Specification {
+class SetupTeardown extends FlatSpec with BeforeAndAfter {
 
   //doBefore and doAfter are run only on leaf examples
   //Launch and stop certain conditions
+  val testBuilder = new StringBuilder
+  var testString = new String
 
-  "MySystem" should {
-    doBefore {..}
-    "mess up the system" in {..}
-    "and again" in {..}
-    doAfter {..}
-    }
+  before {
+    testBuilder.append("Test: ")
+    testString = "Before Test"
   }
-  //doFirst and doLast are used for single-time setup
-  "Foo" should {
-    doFirst { openTheCurtains() }
-    "test stateless methods" in {...}
-    "test other stateless methods" in {...}
-    doLast { closeTheCurtains() }
+
+  after {
+    testBuilder.clear()
+    testString = ""
+  }
+
+  "MySystem" should "execute before" in{
+    testBuilder.append("1")
+    assert(testBuilder == "Test: 1")
+    assert(testString == "Before Test")
   }
 }
