@@ -4,7 +4,7 @@
 		module="tutorial$sources_2.11"
 		revision="1.0"
 		status="integration"
-		publication="20150522144140"
+		publication="20150522155523"
 	/>
 	<configurations>
 		<conf name="default" visibility="public" description=""/>

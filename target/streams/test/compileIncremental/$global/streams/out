@@ -1,0 +1,511 @@
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mInitial source changes: [0m
+[0m[[0mdebug[0m] [0m	removed:Set()[0m
+[0m[[0mdebug[0m] [0m	added: Set(/home/eerilio/Documents/Scala/Tutorial/src/test/scala/SimpleParserSpec.scala)[0m
+[0m[[0mdebug[0m] [0m	modified: Set()[0m
+[0m[[0mdebug[0m] [0mRemoved products: Set()[0m
+[0m[[0mdebug[0m] [0mExternal API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(/home/eerilio/Documents/Scala/Tutorial/src/test/scala/SimpleParserSpec.scala)[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m	product: Set()[0m
+[0m[[0mdebug[0m] [0m	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/home/eerilio/Documents/Scala/Tutorial/src/test/scala/SimpleParserSpec.scala)[0m
+[0m[[0mdebug[0m] [0mRecompiling all 1 sources: invalidated sources (1) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 1 Scala source to /home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/test-classes...[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.11.6[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.11.6[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 44ce260d, interfacing (CompilerInterface) with Scala compiler version 2.11.6[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/usr/lib/jvm/java-8-oracle/jre/lib/resources.jar:/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar:/usr/lib/jvm/java-8-oracle/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jsse.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jce.jar:/usr/lib/jvm/java-8-oracle/jre/lib/charsets.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jfr.jar:/usr/lib/jvm/java-8-oracle/jre/classes:/root/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/test-classes:/home/eerilio/Documents/Scala/Tutorial/target/scala-2.11/classes:/root/.ivy2/cache/org.codehaus.jackson/jackson-core-asl/jars/jackson-core-asl-1.6.1.jar:/root/.ivy2/cache/org.scala-tools.testing/specs_2.8.0/jars/specs_2.8.0-1.6.5.jar[0m
+[0m[[31merror[0m] [0mmissing or invalid dependency detected while loading class file 'Tree.class'.[0m
+[0m[[31merror[0m] [0mCould not access type ScalaObject in package scala,[0m
+[0m[[31merror[0m] [0mbecause it (or its dependencies) are missing. Check your build definition for[0m
+[0m[[31merror[0m] [0mmissing or conflicting dependencies. (Re-run with `-Ylog-classpath` to see the problematic classpath.)[0m
+[0m[[31merror[0m] [0mA full rebuild may help if 'Tree.class' was compiled against an incompatible version of scala.[0m
+[0m[[31merror[0m] [0mmissing or invalid dependency detected while loading class file 'SpecificationSystems.class'.[0m
+[0m[[31merror[0m] [0mCould not access type ScalaObject in package scala,[0m
+[0m[[31merror[0m] [0mbecause it (or its dependencies) are missing. Check your build definition for[0m
+[0m[[31merror[0m] [0mmissing or conflicting dependencies. (Re-run with `-Ylog-classpath` to see the problematic classpath.)[0m
+[0m[[31merror[0m] [0mA full rebuild may help if 'SpecificationSystems.class' was compiled against an incompatible version of scala.[0m
+[0m[[31merror[0m] [0mmissing or invalid dependency detected while loading class file 'SequentialExecution.class'.[0m
+[0m[[31merror[0m] [0mCould not access type ScalaObject in package scala,[0m
+[0m[[31merror[0m] [0mbecause it (or its dependencies) are missing. Check your build definition for[0m
+[0m[[31merror[0m] [0mmissing or conflicting dependencies. (Re-run with `-Ylog-classpath` to see the problematic classpath.)[0m
+[0m[[31merror[0m] [0mA full rebuild may help if 'SequentialExecution.class' was compiled against an incompatible version of scala.[0m
+[0m[[31merror[0m] [0mmissing or invalid dependency detected while loading class file 'LifeCycle.class'.[0m
+[0m[[31merror[0m] [0mCould not access type ScalaObject in package scala,[0m
+[0m[[31merror[0m] [0mbecause it (or its dependencies) are missing. Check your build definition for[0m
+[0m[[31merror[0m] [0mmissing or conflicting dependencies. (Re-run with `-Ylog-classpath` to see the problematic classpath.)[0m
+[0m[[31merror[0m] [0mA full rebuild may help if 'LifeCycle.class' was compiled against an incompatible version of scala.[0m
+[0m[[31merror[0m] [0mmissing or invalid dependency detected while loading class file 'SpecificationExecutor.class'.[0m
+[0m[[31merror[0m] [0mCould not access type ScalaObject in package scala,[0m
+[0m[[31merror[0m] [0mbecause it (or its dependencies) are missing. Check your build definition for[0m
+[0m[[31merror[0m] [0mmissing or conflicting dependencies. (Re-run with `-Ylog-classpath` to see the problematic classpath.)[0m
+[0m[[31merror[0m] [0mA full rebuild may help if 'SpecificationExecutor.class' was compiled against an incompatible version of scala.[0m
+[0m[[31merror[0m] [0mmissing or invalid dependency detected while loading class file 'ExpectationsListener.class'.[0m
+[0m[[31merror[0m] [0mCould not access type ScalaObject in package scala,[0m
+[0m[[31merror[0m] [0mbecause it (or its dependencies) are missing. Check your build definition for[0m
+[0m[[31merror[0m] [0mmissing or conflicting dependencies. (Re-run with `-Ylog-classpath` to see the problematic classpath.)[0m
+[0m[[31merror[0m] [0mA full rebuild may help if 'ExpectationsListener.class' was compiled against an incompatible version of scala.[0m
+[0m[[31merror[0m] [0mmissing or invalid dependency detected while loading class file 'ExampleExpectationsListener.class'.[0m
+[0m[[31merror[0m] [0mCould not access type ScalaObject in package scala,[0m
+[0m[[31merror[0m] [0mbecause it (or its dependencies) are missing. Check your build definition for[0m
+[0m[[31merror[0m] [0mmissing or conflicting dependencies. (Re-run with `-Ylog-classpath` to see the problematic classpath.)[0m
+[0m[[31merror[0m] [0mA full rebuild may help if 'ExampleExpectationsListener.class' was compiled against an incompatible version of scala.[0m
+[0m[[31merror[0m] [0mmissing or invalid dependency detected while loading class file 'Tagged.class'.[0m
+[0m[[31merror[0m] [0mCould not access type ScalaObject in package scala,[0m
+[0m[[31merror[0m] [0mbecause it (or its dependencies) are missing. Check your build definition for[0m
+[0m[[31merror[0m] [0mmissing or conflicting dependencies. (Re-run with `-Ylog-classpath` to see the problematic classpath.)[0m
+[0m[[31merror[0m] [0mA full rebuild may help if 'Tagged.class' was compiled against an incompatible version of scala.[0m
+[0m[[31merror[0m] [0mmissing or invalid dependency detected while loading class file 'HasResults.class'.[0m
+[0m[[31merror[0m] [0mCould not access type ScalaObject in package scala,[0m
+[0m[[31merror[0m] [0mbecause it (or its dependencies) are missing. Check your build definition for[0m
+[0m[[31merror[0m] [0mmissing or conflicting dependencies. (Re-run with `-Ylog-classpath` to see the problematic classpath.)[0m
+[0m[[31merror[0m] [0mA full rebuild may help if 'HasResults.class' was compiled against an incompatible version of scala.[0m
+[0m[[31merror[0m] [0mmissing or invalid dependency detected while loading class file 'LinkedSpecification.class'.[0m
+[0m[[31merror[0m] [0mCould not access type ScalaObject in package scala,[0m
+[0m[[31merror[0m] [0mbecause it (or its dependencies) are missing. Check your build definition for[0m
+[0m[[31merror[0m] [0mmissing or conflicting dependencies. (Re-run with `-Ylog-classpath` to see the problematic classpath.)[0m
+[0m[[31merror[0m] [0mA full rebuild may help if 'LinkedSpecification.class' was compiled against an incompatible version of scala.[0m
+[0m[[31merror[0m] [0mmissing or invalid dependency detected while loading class file 'SpecificationConfiguration.class'.[0m
+[0m[[31merror[0m] [0mCould not access type ScalaObject in package scala,[0m
+[0m[[31merror[0m] [0mbecause it (or its dependencies) are missing. Check your build definition for[0m
+[0m[[31merror[0m] [0mmissing or conflicting dependencies. (Re-run with `-Ylog-classpath` to see the problematic classpath.)[0m
+[0m[[31merror[0m] [0mA full rebuild may help if 'SpecificationConfiguration.class' was compiled against an incompatible version of scala.[0m
+[0m[[31merror[0m] [0mmissing or invalid dependency detected while loading class file 'LazyParameters.class'.[0m
+[0m[[31merror[0m] [0mCould not access type ScalaObject in package scala,[0m
+[0m[[31merror[0m] [0mbecause it (or its dependencies) are missing. Check your build definition for[0m
+[0m[[31merror[0m] [0mmissing or conflicting dependencies. (Re-run with `-Ylog-classpath` to see the problematic classpath.)[0m
+[0m[[31merror[0m] [0mA full rebuild may help if 'LazyParameters.class' was compiled against an incompatible version of scala.[0m
+[0m[[31merror[0m] [0mmissing or invalid dependency detected while loading class file 'ComposedSpecifications.class'.[0m
+[0m[[31merror[0m] [0mCould not access type ScalaObject in package scala,[0m
+[0m[[31merror[0m] [0mbecause it (or its dependencies) are missing. Check your build definition for[0m
+[0m[[31merror[0m] [0mmissing or conflicting dependencies. (Re-run with `-Ylog-classpath` to see the problematic classpath.)[0m
+[0m[[31merror[0m] [0mA full rebuild may help if 'ComposedSpecifications.class' was compiled against an incompatible version of scala.[0m
+[0m[[31merror[0m] [0mmissing or invalid dependency detected while loading class file 'BaseSpecification.class'.[0m
+[0m[[31merror[0m] [0mCould not access type ScalaObject in package scala,[0m
+[0m[[31merror[0m] [0mbecause it (or its dependencies) are missing. Check your build definition for[0m
+[0m[[31merror[0m] [0mmissing or conflicting dependencies. (Re-run with `-Ylog-classpath` to see the problematic classpath.)[0m
+[0m[[31merror[0m] [0mA full rebuild may help if 'BaseSpecification.class' was compiled against an incompatible version of scala.[0m
+[0m[[31merror[0m] [0mmissing or invalid dependency detected while loading class file 'AnyBaseMatchers.class'.[0m
+[0m[[31merror[0m] [0mCould not access type ScalaObject in package scala,[0m
+[0m[[31merror[0m] [0mbecause it (or its dependencies) are missing. Check your build definition for[0m
+[0m[[31merror[0m] [0mmissing or conflicting dependencies. (Re-run with `-Ylog-classpath` to see the problematic classpath.)[0m
+[0m[[31merror[0m] [0mA full rebuild may help if 'AnyBaseMatchers.class' was compiled against an incompatible version of scala.[0m
+[0m[[31merror[0m] [0mmissing or invalid dependency detected while loading class file 'AnyBeHaveMatchers.class'.[0m
+[0m[[31merror[0m] [0mCould not access type ScalaObject in package scala,[0m
+[0m[[31merror[0m] [0mbecause it (or its dependencies) are missing. Check your build definition for[0m
+[0m[[31merror[0m] [0mmissing or conflicting dependencies. (Re-run with `-Ylog-classpath` to see the problematic classpath.)[0m
+[0m[[31merror[0m] [0mA full rebuild may help if 'AnyBeHaveMatchers.class' was compiled against an incompatible version of scala.[0m
+[0m[[31merror[0m] [0mmissing or invalid dependency detected while loading class file 'LogicalMatchers.class'.[0m
+[0m[[31merror[0m] [0mCould not access type ScalaObject in package scala,[0m
+[0m[[31merror[0m] [0mbecause it (or its dependencies) are missing. Check your build definition for[0m
+[0m[[31merror[0m] [0mmissing or conflicting dependencies. (Re-run with `-Ylog-classpath` to see the problematic classpath.)[0m
+[0m[[31merror[0m] [0mA full rebuild may help if 'LogicalMatchers.class' was compiled against an incompatible version of scala.[0m
+[0m[[31merror[0m] [0mmissing or invalid dependency detected while loading class file 'StringBaseMatchers.class'.[0m
+[0m[[31merror[0m] [0mCould not access type ScalaObject in package scala,[0m
+[0m[[31merror[0m] [0mbecause it (or its dependencies) are missing. Check your build definition for[0m
+[0m[[31merror[0m] [0mmissing or conflicting dependencies. (Re-run with `-Ylog-classpath` to see the problematic classpath.)[0m
+[0m[[31merror[0m] [0mA full rebuild may help if 'StringBaseMatchers.class' was compiled against an incompatible version of scala.[0m
+[0m[[31merror[0m] [0mmissing or invalid dependency detected while loading class file 'StringBeHaveMatchers.class'.[0m
+[0m[[31merror[0m] [0mCould not access type ScalaObject in package scala,[0m
+[0m[[31merror[0m] [0mbecause it (or its dependencies) are missing. Check your build definition for[0m
+[0m[[31merror[0m] [0mmissing or conflicting dependencies. (Re-run with `-Ylog-classpath` to see the problematic classpath.)[0m
+[0m[[31merror[0m] [0mA full rebuild may help if 'StringBeHaveMatchers.class' was compiled against an incompatible version of scala.[0m
+[0m[[31merror[0m] [0mmissing or invalid dependency detected while loading class file 'IterableBaseMatchers.class'.[0m
+[0m[[31merror[0m] [0mCould not access type ScalaObject in package scala,[0m
+[0m[[31merror[0m] [0mbecause it (or its dependencies) are missing. Check your build definition for[0m
+[0m[[31merror[0m] [0mmissing or conflicting dependencies. (Re-run with `-Ylog-classpath` to see the problematic classpath.)[0m
+[0m[[31merror[0m] [0mA full rebuild may help if 'IterableBaseMatchers.class' was compiled against an incompatible version of scala.[0m
+[0m[[31merror[0m] [0mmissing or invalid dependency detected while loading class file 'IterableBeHaveMatchers.class'.[0m
+[0m[[31merror[0m] [0mCould not access type ScalaObject in package scala,[0m
+[0m[[31merror[0m] [0mbecause it (or its dependencies) are missing. Check your build definition for[0m
+[0m[[31merror[0m] [0mmissing or conflicting dependencies. (Re-run with `-Ylog-classpath` to see the problematic classpath.)[0m
+[0m[[31merror[0m] [0mA full rebuild may help if 'IterableBeHaveMatchers.class' was compiled against an incompatible version of scala.[0m
+[0m[[31merror[0m] [0mmissing or invalid dependency detected while loading class file 'MapBaseMatchers.class'.[0m
+[0m[[31merror[0m] [0mCould not access type ScalaObject in package scala,[0m
+[0m[[31merror[0m] [0mbecause it (or its dependencies) are missing. Check your build definition for[0m
+[0m[[31merror[0m] [0mmissing or conflicting dependencies. (Re-run with `-Ylog-classpath` to see the problematic classpath.)[0m
+[0m[[31merror[0m] [0mA full rebuild may help if 'MapBaseMatchers.class' was compiled against an incompatible version of scala.[0m
+[0m[[31merror[0m] [0mmissing or invalid dependency detected while loading class file 'MapBeHaveMatchers.class'.[0m
+[0m[[31merror[0m] [0mCould not access type ScalaObject in package scala,[0m
+[0m[[31merror[0m] [0mbecause it (or its dependencies) are missing. Check your build definition for[0m
+[0m[[31merror[0m] [0mmissing or conflicting dependencies. (Re-run with `-Ylog-classpath` to see the problematic classpath.)[0m
+[0m[[31merror[0m] [0mA full rebuild may help if 'MapBeHaveMatchers.class' was compiled against an incompatible version of scala.[0m
+[0m[[31merror[0m] [0mmissing or invalid dependency detected while loading class file 'NumericBaseMatchers.class'.[0m
+[0m[[31merror[0m] [0mCould not access type ScalaObject in package scala,[0m
+[0m[[31merror[0m] [0mbecause it (or its dependencies) are missing. Check your build definition for[0m
+[0m[[31merror[0m] [0mmissing or conflicting dependencies. (Re-run with `-Ylog-classpath` to see the problematic classpath.)[0m
+[0m[[31merror[0m] [0mA full rebuild may help if 'NumericBaseMatchers.class' was compiled against an incompatible version of scala.[0m
+[0m[[31merror[0m] [0mmissing or invalid dependency detected while loading class file 'NumericBeHaveMatchers.class'.[0m
+[0m[[31merror[0m] [0mCould not access type ScalaObject in package scala,[0m
+[0m[[31merror[0m] [0mbecause it (or its dependencies) are missing. Check your build definition for[0m
+[0m[[31merror[0m] [0mmissing or conflicting dependencies. (Re-run with `-Ylog-classpath` to see the problematic classpath.)[0m
+[0m[[31merror[0m] [0mA full rebuild may help if 'NumericBeHaveMatchers.class' was compiled against an incompatible version of scala.[0m
+[0m[[31merror[0m] [0mmissing or invalid dependency detected while loading class file 'EitherBaseMatchers.class'.[0m
+[0m[[31merror[0m] [0mCould not access type ScalaObject in package scala,[0m
+[0m[[31merror[0m] [0mbecause it (or its dependencies) are missing. Check your build definition for[0m
+[0m[[31merror[0m] [0mmissing or conflicting dependencies. (Re-run with `-Ylog-classpath` to see the problematic classpath.)[0m
+[0m[[31merror[0m] [0mA full rebuild may help if 'EitherBaseMatchers.class' was compiled against an incompatible version of scala.[0m
+[0m[[31merror[0m] [0mmissing or invalid dependency detected while loading class file 'EitherBeHaveMatchers.class'.[0m
+[0m[[31merror[0m] [0mCould not access type ScalaObject in package scala,[0m
+[0m[[31merror[0m] [0mbecause it (or its dependencies) are missing. Check your build definition for[0m
+[0m[[31merror[0m] [0mmissing or conflicting dependencies. (Re-run with `-Ylog-classpath` to see the problematic classpath.)[0m
+[0m[[31merror[0m] [0mA full rebuild may help if 'EitherBeHaveMatchers.class' was compiled against an incompatible version of scala.[0m
+[0m[[31merror[0m] [0mmissing or invalid dependency detected while loading class file 'PatternBaseMatchers.class'.[0m
+[0m[[31merror[0m] [0mCould not access type ScalaObject in package scala,[0m
+[0m[[31merror[0m] [0mbecause it (or its dependencies) are missing. Check your build definition for[0m
+[0m[[31merror[0m] [0mmissing or conflicting dependencies. (Re-run with `-Ylog-classpath` to see the problematic classpath.)[0m
+[0m[[31merror[0m] [0mA full rebuild may help if 'PatternBaseMatchers.class' was compiled against an incompatible version of scala.[0m
+[0m[[31merror[0m] [0mmissing or invalid dependency detected while loading class file 'PatternBeHaveMatchers.class'.[0m
+[0m[[31merror[0m] [0mCould not access type ScalaObject in package scala,[0m
+[0m[[31merror[0m] [0mbecause it (or its dependencies) are missing. Check your build definition for[0m
+[0m[[31merror[0m] [0mmissing or conflicting dependencies. (Re-run with `-Ylog-classpath` to see the problematic classpath.)[0m
+[0m[[31merror[0m] [0mA full rebuild may help if 'PatternBeHaveMatchers.class' was compiled against an incompatible version of scala.[0m
+[0m[[31merror[0m] [0mmissing or invalid dependency detected while loading class file 'XmlBaseMatchers.class'.[0m
+[0m[[31merror[0m] [0mCould not access type ScalaObject in package scala,[0m
+[0m[[31merror[0m] [0mbecause it (or its dependencies) are missing. Check your build definition for[0m
+[0m[[31merror[0m] [0mmissing or conflicting dependencies. (Re-run with `-Ylog-classpath` to see the problematic classpath.)[0m
+[0m[[31merror[0m] [0mA full rebuild may help if 'XmlBaseMatchers.class' was compiled against an incompatible version of scala.[0m
+[0m[[31merror[0m] [0mmissing or invalid dependency detected while loading class file 'XmlBeHaveMatchers.class'.[0m
+[0m[[31merror[0m] [0mCould not access type ScalaObject in package scala,[0m
+[0m[[31merror[0m] [0mbecause it (or its dependencies) are missing. Check your build definition for[0m
+[0m[[31merror[0m] [0mmissing or conflicting dependencies. (Re-run with `-Ylog-classpath` to see the problematic classpath.)[0m
+[0m[[31merror[0m] [0mA full rebuild may help if 'XmlBeHaveMatchers.class' was compiled against an incompatible version of scala.[0m
+[0m[[31merror[0m] [0mmissing or invalid dependency detected while loading class file 'FileReader.class'.[0m
+[0m[[31merror[0m] [0mCould not access type ScalaObject in package scala,[0m
+[0m[[31merror[0m] [0mbecause it (or its dependencies) are missing. Check your build definition for[0m
+[0m[[31merror[0m] [0mmissing or conflicting dependencies. (Re-run with `-Ylog-classpath` to see the problematic classpath.)[0m
+[0m[[31merror[0m] [0mA full rebuild may help if 'FileReader.class' was compiled against an incompatible version of scala.[0m
+[0m[[31merror[0m] [0mmissing or invalid dependency detected while loading class file 'FileWriter.class'.[0m
+[0m[[31merror[0m] [0mCould not access type ScalaObject in package scala,[0m
+[0m[[31merror[0m] [0mbecause it (or its dependencies) are missing. Check your build definition for[0m
+[0m[[31merror[0m] [0mmissing or conflicting dependencies. (Re-run with `-Ylog-classpath` to see the problematic classpath.)[0m
+[0m[[31merror[0m] [0mA full rebuild may help if 'FileWriter.class' was compiled against an incompatible version of scala.[0m
+[0m[[31merror[0m] [0mmissing or invalid dependency detected while loading class file 'FileSystem.class'.[0m
+[0m[[31merror[0m] [0mCould not access type ScalaObject in package scala,[0m
+[0m[[31merror[0m] [0mbecause it (or its dependencies) are missing. Check your build definition for[0m
+[0m[[31merror[0m] [0mmissing or conflicting dependencies. (Re-run with `-Ylog-classpath` to see the problematic classpath.)[0m
+[0m[[31merror[0m] [0mA full rebuild may help if 'FileSystem.class' was compiled against an incompatible version of scala.[0m
+[0m[[31merror[0m] [0mmissing or invalid dependency detected while loading class file 'PathBaseMatchers.class'.[0m
+[0m[[31merror[0m] [0mCould not access type ScalaObject in package scala,[0m
+[0m[[31merror[0m] [0mbecause it (or its dependencies) are missing. Check your build definition for[0m
+[0m[[31merror[0m] [0mmissing or conflicting dependencies. (Re-run with `-Ylog-classpath` to see the problematic classpath.)[0m
+[0m[[31merror[0m] [0mA full rebuild may help if 'PathBaseMatchers.class' was compiled against an incompatible version of scala.[0m
+[0m[[31merror[0m] [0mmissing or invalid dependency detected while loading class file 'PathBeHaveMatchers.class'.[0m
+[0m[[31merror[0m] [0mCould not access type ScalaObject in package scala,[0m
+[0m[[31merror[0m] [0mbecause it (or its dependencies) are missing. Check your build definition for[0m
+[0m[[31merror[0m] [0mmissing or conflicting dependencies. (Re-run with `-Ylog-classpath` to see the problematic classpath.)[0m
+[0m[[31merror[0m] [0mA full rebuild may help if 'PathBeHaveMatchers.class' was compiled against an incompatible version of scala.[0m
+[0m[[31merror[0m] [0mmissing or invalid dependency detected while loading class file 'FileBaseMatchers.class'.[0m
+[0m[[31merror[0m] [0mCould not access type ScalaObject in package scala,[0m
+[0m[[31merror[0m] [0mbecause it (or its dependencies) are missing. Check your build definition for[0m
+[0m[[31merror[0m] [0mmissing or conflicting dependencies. (Re-run with `-Ylog-classpath` to see the problematic classpath.)[0m
+[0m[[31merror[0m] [0mA full rebuild may help if 'FileBaseMatchers.class' was compiled against an incompatible version of scala.[0m
+[0m[[31merror[0m] [0mmissing or invalid dependency detected while loading class file 'FileBeHaveMatchers.class'.[0m
+[0m[[31merror[0m] [0mCould not access type ScalaObject in package scala,[0m
+[0m[[31merror[0m] [0mbecause it (or its dependencies) are missing. Check your build definition for[0m
+[0m[[31merror[0m] [0mmissing or conflicting dependencies. (Re-run with `-Ylog-classpath` to see the problematic classpath.)[0m
+[0m[[31merror[0m] [0mA full rebuild may help if 'FileBeHaveMatchers.class' was compiled against an incompatible version of scala.[0m
+[0m[[31merror[0m] [0mmissing or invalid dependency detected while loading class file 'MatcherResult.class'.[0m
+[0m[[31merror[0m] [0mCould not access type ScalaObject in package scala,[0m
+[0m[[31merror[0m] [0mbecause it (or its dependencies) are missing. Check your build definition for[0m
+[0m[[31merror[0m] [0mmissing or conflicting dependencies. (Re-run with `-Ylog-classpath` to see the problematic classpath.)[0m
+[0m[[31merror[0m] [0mA full rebuild may help if 'MatcherResult.class' was compiled against an incompatible version of scala.[0m
+[0m[[31merror[0m] [0mmissing or invalid dependency detected while loading class file 'EventuallyMatchers.class'.[0m
+[0m[[31merror[0m] [0mCould not access type ScalaObject in package scala,[0m
+[0m[[31merror[0m] [0mbecause it (or its dependencies) are missing. Check your build definition for[0m
+[0m[[31merror[0m] [0mmissing or conflicting dependencies. (Re-run with `-Ylog-classpath` to see the problematic classpath.)[0m
+[0m[[31merror[0m] [0mA full rebuild may help if 'EventuallyMatchers.class' was compiled against an incompatible version of scala.[0m
+[0m[[31merror[0m] [0mmissing or invalid dependency detected while loading class file 'OrResults.class'.[0m
+[0m[[31merror[0m] [0mCould not access type ScalaObject in package scala,[0m
+[0m[[31merror[0m] [0mbecause it (or its dependencies) are missing. Check your build definition for[0m
+[0m[[31merror[0m] [0mmissing or conflicting dependencies. (Re-run with `-Ylog-classpath` to see the problematic classpath.)[0m
+[0m[[31merror[0m] [0mA full rebuild may help if 'OrResults.class' was compiled against an incompatible version of scala.[0m
+[0m[[31merror[0m] [0mmissing or invalid dependency detected while loading class file 'SuccessValues.class'.[0m
+[0m[[31merror[0m] [0mCould not access type ScalaObject in package scala,[0m
+[0m[[31merror[0m] [0mbecause it (or its dependencies) are missing. Check your build definition for[0m
+[0m[[31merror[0m] [0mmissing or conflicting dependencies. (Re-run with `-Ylog-classpath` to see the problematic classpath.)[0m
+[0m[[31merror[0m] [0mA full rebuild may help if 'SuccessValues.class' was compiled against an incompatible version of scala.[0m
+[0m[[31merror[0m] [0mmissing or invalid dependency detected while loading class file 'ExpectableFactory.class'.[0m
+[0m[[31merror[0m] [0mCould not access type ScalaObject in package scala,[0m
+[0m[[31merror[0m] [0mbecause it (or its dependencies) are missing. Check your build definition for[0m
+[0m[[31merror[0m] [0mmissing or conflicting dependencies. (Re-run with `-Ylog-classpath` to see the problematic classpath.)[0m
+[0m[[31merror[0m] [0mA full rebuild may help if 'ExpectableFactory.class' was compiled against an incompatible version of scala.[0m
+[0m[[31merror[0m] [0mmissing or invalid dependency detected while loading class file 'DetailedFailures.class'.[0m
+[0m[[31merror[0m] [0mCould not access type ScalaObject in package scala,[0m
+[0m[[31merror[0m] [0mbecause it (or its dependencies) are missing. Check your build definition for[0m
+[0m[[31merror[0m] [0mmissing or conflicting dependencies. (Re-run with `-Ylog-classpath` to see the problematic classpath.)[0m
+[0m[[31merror[0m] [0mA full rebuild may help if 'DetailedFailures.class' was compiled against an incompatible version of scala.[0m
+[0m[[31merror[0m] [0mmissing or invalid dependency detected while loading class file 'FailOrSkip.class'.[0m
+[0m[[31merror[0m] [0mCould not access type ScalaObject in package scala,[0m
+[0m[[31merror[0m] [0mbecause it (or its dependencies) are missing. Check your build definition for[0m
+[0m[[31merror[0m] [0mmissing or conflicting dependencies. (Re-run with `-Ylog-classpath` to see the problematic classpath.)[0m
+[0m[[31merror[0m] [0mA full rebuild may help if 'FailOrSkip.class' was compiled against an incompatible version of scala.[0m
+[0m[[31merror[0m] [0mmissing or invalid dependency detected while loading class file 'SpecsFilter.class'.[0m
+[0m[[31merror[0m] [0mCould not access type ScalaObject in package scala,[0m
+[0m[[31merror[0m] [0mbecause it (or its dependencies) are missing. Check your build definition for[0m
+[0m[[31merror[0m] [0mmissing or conflicting dependencies. (Re-run with `-Ylog-classpath` to see the problematic classpath.)[0m
+[0m[[31merror[0m] [0mA full rebuild may help if 'SpecsFilter.class' was compiled against an incompatible version of scala.[0m
+[0m[[31merror[0m] [0mmissing or invalid dependency detected while loading class file 'Output.class'.[0m
+[0m[[31merror[0m] [0mCould not access type ScalaObject in package scala,[0m
+[0m[[31merror[0m] [0mbecause it (or its dependencies) are missing. Check your build definition for[0m
+[0m[[31merror[0m] [0mmissing or conflicting dependencies. (Re-run with `-Ylog-classpath` to see the problematic classpath.)[0m
+[0m[[31merror[0m] [0mA full rebuild may help if 'Output.class' was compiled against an incompatible version of scala.[0m
+[0m[[31merror[0m] [0mmissing or invalid dependency detected while loading class file 'ConsoleOutput.class'.[0m
+[0m[[31merror[0m] [0mCould not access type ScalaObject in package scala,[0m
+[0m[[31merror[0m] [0mbecause it (or its dependencies) are missing. Check your build definition for[0m
+[0m[[31merror[0m] [0mmissing or conflicting dependencies. (Re-run with `-Ylog-classpath` to see the problematic classpath.)[0m
+[0m[[31merror[0m] [0mA full rebuild may help if 'ConsoleOutput.class' was compiled against an incompatible version of scala.[0m
+[0m[[31merror[0m] [0mmissing or invalid dependency detected while loading class file 'Log.class'.[0m
+[0m[[31merror[0m] [0mCould not access type ScalaObject in package scala,[0m
+[0m[[31merror[0m] [0mbecause it (or its dependencies) are missing. Check your build definition for[0m
+[0m[[31merror[0m] [0mmissing or conflicting dependencies. (Re-run with `-Ylog-classpath` to see the problematic classpath.)[0m
+[0m[[31merror[0m] [0mA full rebuild may help if 'Log.class' was compiled against an incompatible version of scala.[0m
+[0m[[31merror[0m] [0mmissing or invalid dependency detected while loading class file 'Reporter.class'.[0m
+[0m[[31merror[0m] [0mCould not access type ScalaObject in package scala,[0m
+[0m[[31merror[0m] [0mbecause it (or its dependencies) are missing. Check your build definition for[0m
+[0m[[31merror[0m] [0mmissing or conflicting dependencies. (Re-run with `-Ylog-classpath` to see the problematic classpath.)[0m
+[0m[[31merror[0m] [0mA full rebuild may help if 'Reporter.class' was compiled against an incompatible version of scala.[0m
+[0m[[31merror[0m] [0mmissing or invalid dependency detected while loading class file 'OutputReporter.class'.[0m
+[0m[[31merror[0m] [0mCould not access type ScalaObject in package scala,[0m
+[0m[[31merror[0m] [0mbecause it (or its dependencies) are missing. Check your build definition for[0m
+[0m[[31merror[0m] [0mmissing or conflicting dependencies. (Re-run with `-Ylog-classpath` to see the problematic classpath.)[0m
+[0m[[31merror[0m] [0mA full rebuild may help if 'OutputReporter.class' was compiled against an incompatible version of scala.[0m
+[0m[[31merror[0m] [0mmissing or invalid dependency detected while loading class file 'Console.class'.[0m
+[0m[[31merror[0m] [0mCould not access type ScalaObject in package scala,[0m
+[0m[[31merror[0m] [0mbecause it (or its dependencies) are missing. Check your build definition for[0m
+[0m[[31merror[0m] [0mmissing or conflicting dependencies. (Re-run with `-Ylog-classpath` to see the problematic classpath.)[0m
+[0m[[31merror[0m] [0mA full rebuild may help if 'Console.class' was compiled against an incompatible version of scala.[0m
+[0m[[31merror[0m] [0mmissing or invalid dependency detected while loading class file 'BeforeAfter.class'.[0m
+[0m[[31merror[0m] [0mCould not access type ScalaObject in package scala,[0m
+[0m[[31merror[0m] [0mbecause it (or its dependencies) are missing. Check your build definition for[0m
+[0m[[31merror[0m] [0mmissing or conflicting dependencies. (Re-run with `-Ylog-classpath` to see the problematic classpath.)[0m
+[0m[[31merror[0m] [0mA full rebuild may help if 'BeforeAfter.class' was compiled against an incompatible version of scala.[0m
+[0m[[31merror[0m] [0mmissing or invalid dependency detected while loading class file 'Contexts.class'.[0m
+[0m[[31merror[0m] [0mCould not access type ScalaObject in package scala,[0m
+[0m[[31merror[0m] [0mbecause it (or its dependencies) are missing. Check your build definition for[0m
+[0m[[31merror[0m] [0mmissing or conflicting dependencies. (Re-run with `-Ylog-classpath` to see the problematic classpath.)[0m
+[0m[[31merror[0m] [0mA full rebuild may help if 'Contexts.class' was compiled against an incompatible version of scala.[0m
+[0m[[31merror[0m] [0mmissing or invalid dependency detected while loading class file 'Specification.class'.[0m
+[0m[[31merror[0m] [0mCould not access type ScalaObject in package scala,[0m
+[0m[[31merror[0m] [0mbecause it (or its dependencies) are missing. Check your build definition for[0m
+[0m[[31merror[0m] [0mmissing or conflicting dependencies. (Re-run with `-Ylog-classpath` to see the problematic classpath.)[0m
+[0m[[31merror[0m] [0mA full rebuild may help if 'Specification.class' was compiled against an incompatible version of scala.[0m
+[0m[[31merror[0m] [0m/home/eerilio/Documents/Scala/Tutorial/src/test/scala/SimpleParserSpec.scala:5: illegal inheritance;[0m
+[0m[[31merror[0m] [0m self-type SimpleParserSpec.type does not conform to org.specs.Specification's selftype org.specs.Specification[0m
+[0m[[31merror[0m] [0mobject SimpleParserSpec extends Specification {[0m
+[0m[[31merror[0m] [0m                                ^[0m
+[0m[[31merror[0m] [0mmissing or invalid dependency detected while loading class file 'Detailed.class'.[0m
+[0m[[31merror[0m] [0mCould not access type ScalaObject in package scala,[0m
+[0m[[31merror[0m] [0mbecause it (or its dependencies) are missing. Check your build definition for[0m
+[0m[[31merror[0m] [0mmissing or conflicting dependencies. (Re-run with `-Ylog-classpath` to see the problematic classpath.)[0m
+[0m[[31merror[0m] [0mA full rebuild may help if 'Detailed.class' was compiled against an incompatible version of scala.[0m
+[0m[[31merror[0m] [0mmissing or invalid dependency detected while loading class file 'Result.class'.[0m
+[0m[[31merror[0m] [0mCould not access type ScalaObject in package scala,[0m
+[0m[[31merror[0m] [0mbecause it (or its dependencies) are missing. Check your build definition for[0m
+[0m[[31merror[0m] [0mmissing or conflicting dependencies. (Re-run with `-Ylog-classpath` to see the problematic classpath.)[0m
+[0m[[31merror[0m] [0mA full rebuild may help if 'Result.class' was compiled against an incompatible version of scala.[0m
+scala.MatchError: 22 (of class java.lang.Integer)
+	at scala.reflect.internal.pickling.UnPickler$Scan.readType(UnPickler.scala:410)
+	at scala.reflect.internal.pickling.UnPickler$Scan$$anonfun$readTypeRef$1.apply(UnPickler.scala:658)
+	at scala.reflect.internal.pickling.UnPickler$Scan$$anonfun$readTypeRef$1.apply(UnPickler.scala:658)
+	at scala.reflect.internal.pickling.UnPickler$Scan.at(UnPickler.scala:179)
+	at scala.reflect.internal.pickling.UnPickler$Scan.readTypeRef(UnPickler.scala:658)
+	at scala.reflect.internal.pickling.UnPickler$Scan.readType(UnPickler.scala:420)
+	at scala.reflect.internal.pickling.UnPickler$Scan$$anonfun$readTypeRef$1.apply(UnPickler.scala:658)
+	at scala.reflect.internal.pickling.UnPickler$Scan$$anonfun$readTypeRef$1.apply(UnPickler.scala:658)
+	at scala.reflect.internal.pickling.UnPickler$Scan.at(UnPickler.scala:179)
+	at scala.reflect.internal.pickling.UnPickler$Scan.readTypeRef(UnPickler.scala:658)
+	at scala.reflect.internal.pickling.UnPickler$Scan.readType(UnPickler.scala:421)
+	at scala.reflect.internal.pickling.UnPickler$Scan$LazyTypeRef$$anonfun$6.apply(UnPickler.scala:725)
+	at scala.reflect.internal.pickling.UnPickler$Scan$LazyTypeRef$$anonfun$6.apply(UnPickler.scala:725)
+	at scala.reflect.internal.pickling.UnPickler$Scan.at(UnPickler.scala:179)
+	at scala.reflect.internal.pickling.UnPickler$Scan$LazyTypeRef.completeInternal(UnPickler.scala:725)
+	at scala.reflect.internal.pickling.UnPickler$Scan$LazyTypeRef.complete(UnPickler.scala:749)
+	at scala.reflect.internal.Symbols$Symbol.info(Symbols.scala:1488)
+	at scala.reflect.internal.Symbols$Symbol.tpeHK(Symbols.scala:1423)
+	at scala.reflect.internal.Types$Type.computeMemberType(Types.scala:694)
+	at scala.reflect.internal.Symbols$MethodSymbol.typeAsMemberOf(Symbols.scala:2922)
+	at scala.reflect.internal.Types$Type.memberType(Types.scala:689)
+	at scala.tools.nsc.typechecker.Implicits$ImplicitInfo.tpe(Implicits.scala:199)
+	at scala.tools.nsc.typechecker.Implicits$ImplicitInfo.computeIsCyclicOrErroneous(Implicits.scala:209)
+	at scala.tools.nsc.typechecker.Implicits$ImplicitInfo.isCyclicOrErroneous(Implicits.scala:204)
+	at scala.tools.nsc.typechecker.Implicits$ImplicitSearch$ImplicitComputation.isIneligible(Implicits.scala:807)
+	at scala.tools.nsc.typechecker.Implicits$ImplicitSearch$ImplicitComputation.survives(Implicits.scala:815)
+	at scala.tools.nsc.typechecker.Implicits$ImplicitSearch$ImplicitComputation$$anonfun$19$$anonfun$20.apply(Implicits.scala:872)
+	at scala.tools.nsc.typechecker.Implicits$ImplicitSearch$ImplicitComputation$$anonfun$19$$anonfun$20.apply(Implicits.scala:872)
+	at scala.collection.TraversableLike$$anonfun$filterImpl$1.apply(TraversableLike.scala:259)
+	at scala.collection.immutable.List.foreach(List.scala:381)
+	at scala.collection.TraversableLike$class.filterImpl(TraversableLike.scala:258)
+	at scala.collection.TraversableLike$class.filter(TraversableLike.scala:270)
+	at scala.collection.AbstractTraversable.filter(Traversable.scala:104)
+	at scala.tools.nsc.typechecker.Implicits$ImplicitSearch$ImplicitComputation$$anonfun$19.apply(Implicits.scala:872)
+	at scala.tools.nsc.typechecker.Implicits$ImplicitSearch$ImplicitComputation$$anonfun$19.apply(Implicits.scala:871)
+	at scala.collection.immutable.List.flatMap(List.scala:327)
+	at scala.tools.nsc.typechecker.Implicits$ImplicitSearch$ImplicitComputation.<init>(Implicits.scala:871)
+	at scala.tools.nsc.typechecker.Implicits$ImplicitSearch.searchImplicit(Implicits.scala:986)
+	at scala.tools.nsc.typechecker.Implicits$ImplicitSearch.bestImplicit(Implicits.scala:1349)
+	at scala.tools.nsc.typechecker.Implicits$class.inferImplicit(Implicits.scala:73)
+	at scala.tools.nsc.Global$$anon$1.inferImplicit(Global.scala:463)
+	at scala.tools.nsc.typechecker.Implicits$class.inferImplicit(Implicits.scala:41)
+	at scala.tools.nsc.Global$$anon$1.inferImplicit(Global.scala:463)
+	at scala.tools.nsc.typechecker.Typers$Typer.scala$tools$nsc$typechecker$Typers$Typer$$wrapImplicit$1(Typers.scala:219)
+	at scala.tools.nsc.typechecker.Typers$Typer.inferView(Typers.scala:226)
+	at scala.tools.nsc.typechecker.Typers$Typer.viewExists(Typers.scala:190)
+	at scala.tools.nsc.typechecker.Typers$Typer$$anon$2$$anonfun$isCoercible$1.apply(Typers.scala:123)
+	at scala.tools.nsc.typechecker.Typers$Typer$$anon$2$$anonfun$isCoercible$1.apply(Typers.scala:123)
+	at scala.reflect.internal.tpe.TypeConstraints$UndoLog.undo(TypeConstraints.scala:56)
+	at scala.tools.nsc.typechecker.Typers$Typer$$anon$2.isCoercible(Typers.scala:123)
+	at scala.tools.nsc.typechecker.Infer$Inferencer.scala$tools$nsc$typechecker$Infer$Inferencer$$isCompatible(Infer.scala:306)
+	at scala.tools.nsc.typechecker.Infer$Inferencer$$anonfun$isCompatibleArgs$1.apply(Infer.scala:311)
+	at scala.tools.nsc.typechecker.Infer$Inferencer$$anonfun$isCompatibleArgs$1.apply(Infer.scala:311)
+	at scala.collection.LinearSeqLike$class.corresponds(LinearSeqLike.scala:67)
+	at scala.collection.immutable.List.corresponds(List.scala:84)
+	at scala.tools.nsc.typechecker.Infer$Inferencer.isCompatibleArgs(Infer.scala:311)
+	at scala.tools.nsc.typechecker.Infer$Inferencer.typesCompatible$1(Infer.scala:745)
+	at scala.tools.nsc.typechecker.Infer$Inferencer.isApplicableToMethod(Infer.scala:758)
+	at scala.tools.nsc.typechecker.Infer$Inferencer.scala$tools$nsc$typechecker$Infer$Inferencer$$isApplicable(Infer.scala:777)
+	at scala.tools.nsc.typechecker.Infer$Inferencer.tryWithArgs$1(Infer.scala:733)
+	at scala.tools.nsc.typechecker.Infer$Inferencer.isApplicableToMethod(Infer.scala:760)
+	at scala.tools.nsc.typechecker.Infer$Inferencer.scala$tools$nsc$typechecker$Infer$Inferencer$$isApplicable(Infer.scala:777)
+	at scala.tools.nsc.typechecker.Infer$Inferencer.applicableExpectingPt$1(Infer.scala:794)
+	at scala.tools.nsc.typechecker.Infer$Inferencer.isApplicableSafe(Infer.scala:800)
+	at scala.tools.nsc.typechecker.Typers$Typer$$anonfun$65.apply(Typers.scala:3240)
+	at scala.tools.nsc.typechecker.Typers$Typer$$anonfun$65.apply(Typers.scala:3229)
+	at scala.reflect.internal.Symbols$Symbol.filter(Symbols.scala:1903)
+	at scala.tools.nsc.typechecker.Typers$Typer.preSelectOverloaded$1(Typers.scala:3229)
+	at scala.tools.nsc.typechecker.Typers$Typer.doTypedApply(Typers.scala:3256)
+	at scala.tools.nsc.typechecker.Typers$Typer.normalTypedApply$1(Typers.scala:4544)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedApply$1(Typers.scala:4578)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedInAnyMode$1(Typers.scala:5343)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5360)
+	at scala.tools.nsc.typechecker.Typers$Typer.runTyper$1(Typers.scala:5396)
+	at scala.tools.nsc.typechecker.Typers$Typer.scala$tools$nsc$typechecker$Typers$Typer$$typedInternal(Typers.scala:5423)
+	at scala.tools.nsc.typechecker.Typers$Typer.body$2(Typers.scala:5370)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5374)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedByValueExpr(Typers.scala:5452)
+	at scala.tools.nsc.typechecker.Typers$Typer.scala$tools$nsc$typechecker$Typers$Typer$$typedStat$1(Typers.scala:3046)
+	at scala.tools.nsc.typechecker.Typers$Typer$$anonfun$62.apply(Typers.scala:3150)
+	at scala.tools.nsc.typechecker.Typers$Typer$$anonfun$62.apply(Typers.scala:3150)
+	at scala.collection.immutable.List.loop$1(List.scala:173)
+	at scala.collection.immutable.List.mapConserve(List.scala:189)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStats(Typers.scala:3150)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedBlock(Typers.scala:2381)
+	at scala.tools.nsc.typechecker.Typers$Typer$$anonfun$typedOutsidePatternMode$1$1.apply(Typers.scala:5318)
+	at scala.tools.nsc.typechecker.Typers$Typer$$anonfun$typedOutsidePatternMode$1$1.apply(Typers.scala:5318)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedOutsidePatternMode$1(Typers.scala:5317)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedInAnyMode$1(Typers.scala:5353)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5360)
+	at scala.tools.nsc.typechecker.Typers$Typer.runTyper$1(Typers.scala:5396)
+	at scala.tools.nsc.typechecker.Typers$Typer.scala$tools$nsc$typechecker$Typers$Typer$$typedInternal(Typers.scala:5423)
+	at scala.tools.nsc.typechecker.Typers$Typer.body$2(Typers.scala:5370)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5374)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5448)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedDefDef(Typers.scala:2202)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedMemberDef$1(Typers.scala:5308)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5359)
+	at scala.tools.nsc.typechecker.Typers$Typer.runTyper$1(Typers.scala:5396)
+	at scala.tools.nsc.typechecker.Typers$Typer.scala$tools$nsc$typechecker$Typers$Typer$$typedInternal(Typers.scala:5423)
+	at scala.tools.nsc.typechecker.Typers$Typer.body$2(Typers.scala:5370)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5374)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedByValueExpr(Typers.scala:5452)
+	at scala.tools.nsc.typechecker.Typers$Typer.scala$tools$nsc$typechecker$Typers$Typer$$typedStat$1(Typers.scala:3046)
+	at scala.tools.nsc.typechecker.Typers$Typer$$anonfun$62.apply(Typers.scala:3150)
+	at scala.tools.nsc.typechecker.Typers$Typer$$anonfun$62.apply(Typers.scala:3150)
+	at scala.collection.immutable.List.loop$1(List.scala:173)
+	at scala.collection.immutable.List.mapConserve(List.scala:189)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStats(Typers.scala:3150)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedTemplate(Typers.scala:1921)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedModuleDef(Typers.scala:1808)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedMemberDef$1(Typers.scala:5310)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5359)
+	at scala.tools.nsc.typechecker.Typers$Typer.runTyper$1(Typers.scala:5396)
+	at scala.tools.nsc.typechecker.Typers$Typer.scala$tools$nsc$typechecker$Typers$Typer$$typedInternal(Typers.scala:5423)
+	at scala.tools.nsc.typechecker.Typers$Typer.body$2(Typers.scala:5370)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5374)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedByValueExpr(Typers.scala:5452)
+	at scala.tools.nsc.typechecker.Typers$Typer.scala$tools$nsc$typechecker$Typers$Typer$$typedStat$1(Typers.scala:3046)
+	at scala.tools.nsc.typechecker.Typers$Typer$$anonfun$62.apply(Typers.scala:3150)
+	at scala.tools.nsc.typechecker.Typers$Typer$$anonfun$62.apply(Typers.scala:3150)
+	at scala.collection.immutable.List.loop$1(List.scala:173)
+	at scala.collection.immutable.List.mapConserve(List.scala:189)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStats(Typers.scala:3150)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedPackageDef$1(Typers.scala:5012)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedMemberDef$1(Typers.scala:5312)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5359)
+	at scala.tools.nsc.typechecker.Typers$Typer.runTyper$1(Typers.scala:5396)
+	at scala.tools.nsc.typechecker.Typers$Typer.scala$tools$nsc$typechecker$Typers$Typer$$typedInternal(Typers.scala:5423)
+	at scala.tools.nsc.typechecker.Typers$Typer.body$2(Typers.scala:5370)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5374)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5448)
+	at scala.tools.nsc.typechecker.Analyzer$typerFactory$$anon$3.apply(Analyzer.scala:102)
+	at scala.tools.nsc.Global$GlobalPhase$$anonfun$applyPhase$1.apply$mcV$sp(Global.scala:441)
+	at scala.tools.nsc.Global$GlobalPhase.withCurrentUnit(Global.scala:432)
+	at scala.tools.nsc.Global$GlobalPhase.applyPhase(Global.scala:441)
+	at scala.tools.nsc.typechecker.Analyzer$typerFactory$$anon$3$$anonfun$run$1.apply(Analyzer.scala:94)
+	at scala.tools.nsc.typechecker.Analyzer$typerFactory$$anon$3$$anonfun$run$1.apply(Analyzer.scala:93)
+	at scala.collection.Iterator$class.foreach(Iterator.scala:750)
+	at scala.collection.AbstractIterator.foreach(Iterator.scala:1202)
+	at scala.tools.nsc.typechecker.Analyzer$typerFactory$$anon$3.run(Analyzer.scala:93)
+	at scala.tools.nsc.Global$Run.compileUnitsInternal(Global.scala:1500)
+	at scala.tools.nsc.Global$Run.compileUnits(Global.scala:1487)
+	at scala.tools.nsc.Global$Run.compileSources(Global.scala:1482)
+	at scala.tools.nsc.Global$Run.compile(Global.scala:1580)
+	at xsbt.CachedCompiler0.run(CompilerInterface.scala:116)
+	at xsbt.CachedCompiler0.run(CompilerInterface.scala:95)
+	at xsbt.CompilerInterface.run(CompilerInterface.scala:26)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at sbt.compiler.AnalyzingCompiler.call(AnalyzingCompiler.scala:101)
+	at sbt.compiler.AnalyzingCompiler.compile(AnalyzingCompiler.scala:47)
+	at sbt.compiler.AnalyzingCompiler.compile(AnalyzingCompiler.scala:41)
+	at sbt.compiler.MixedAnalyzingCompiler$$anonfun$compileScala$1$1.apply$mcV$sp(MixedAnalyzingCompiler.scala:51)
+	at sbt.compiler.MixedAnalyzingCompiler$$anonfun$compileScala$1$1.apply(MixedAnalyzingCompiler.scala:51)
+	at sbt.compiler.MixedAnalyzingCompiler$$anonfun$compileScala$1$1.apply(MixedAnalyzingCompiler.scala:51)
+	at sbt.compiler.MixedAnalyzingCompiler.timed(MixedAnalyzingCompiler.scala:75)
+	at sbt.compiler.MixedAnalyzingCompiler.compileScala$1(MixedAnalyzingCompiler.scala:50)
+	at sbt.compiler.MixedAnalyzingCompiler.compile(MixedAnalyzingCompiler.scala:65)
+	at sbt.compiler.IC$$anonfun$compileInternal$1.apply(IncrementalCompiler.scala:160)
+	at sbt.compiler.IC$$anonfun$compileInternal$1.apply(IncrementalCompiler.scala:160)
+	at sbt.inc.IncrementalCompile$$anonfun$doCompile$1.apply(Compile.scala:66)
+	at sbt.inc.IncrementalCompile$$anonfun$doCompile$1.apply(Compile.scala:64)
+	at sbt.inc.IncrementalCommon.cycle(IncrementalCommon.scala:31)
+	at sbt.inc.Incremental$$anonfun$1.apply(Incremental.scala:62)
+	at sbt.inc.Incremental$$anonfun$1.apply(Incremental.scala:61)
+	at sbt.inc.Incremental$.manageClassfiles(Incremental.scala:89)
+	at sbt.inc.Incremental$.compile(Incremental.scala:61)
+	at sbt.inc.IncrementalCompile$.apply(Compile.scala:54)
+	at sbt.compiler.IC$.compileInternal(IncrementalCompiler.scala:160)
+	at sbt.compiler.IC$.incrementalCompile(IncrementalCompiler.scala:138)
+	at sbt.Compiler$.compile(Compiler.scala:128)
+	at sbt.Compiler$.compile(Compiler.scala:114)
+	at sbt.Defaults$.sbt$Defaults$$compileIncrementalTaskImpl(Defaults.scala:814)
+	at sbt.Defaults$$anonfun$compileIncrementalTask$1.apply(Defaults.scala:805)
+	at sbt.Defaults$$anonfun$compileIncrementalTask$1.apply(Defaults.scala:803)
+	at scala.Function1$$anonfun$compose$1.apply(Function1.scala:47)
+	at sbt.$tilde$greater$$anonfun$$u2219$1.apply(TypeFunctions.scala:40)
+	at sbt.std.Transform$$anon$4.work(System.scala:63)
+	at sbt.Execute$$anonfun$submit$1$$anonfun$apply$1.apply(Execute.scala:226)
+	at sbt.Execute$$anonfun$submit$1$$anonfun$apply$1.apply(Execute.scala:226)
+	at sbt.ErrorHandling$.wideConvert(ErrorHandling.scala:17)
+	at sbt.Execute.work(Execute.scala:235)
+	at sbt.Execute$$anonfun$submit$1.apply(Execute.scala:226)
+	at sbt.Execute$$anonfun$submit$1.apply(Execute.scala:226)
+	at sbt.ConcurrentRestrictions$$anon$4$$anonfun$1.apply(ConcurrentRestrictions.scala:159)
+	at sbt.CompletionService$$anon$2.call(CompletionService.scala:28)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[0m[[31merror[0m] [0m(test:[31mcompileIncremental[0m) scala.MatchError: 22 (of class java.lang.Integer)[0m
