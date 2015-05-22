@@ -4,7 +4,7 @@
 		module="tutorial$sources_javadoc_2.11"
 		revision="1.0"
 		status="integration"
-		publication="20150521161715"
+		publication="20150522144141"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>
@@ -31,6 +31,17 @@
 		<dependency org="org.codehaus.jackson" name="jackson-core-asl" rev="1.6.1" transitive="false" conf="compile->default(compile);runtime->default(compile);test->default(compile);compile-internal->default(compile);runtime-internal->default(compile);test-internal->default(compile)">
 			<artifact name="jackson-core-asl" type="src" ext="jar" conf="sources" e:classifier="sources"/>
 		</dependency>
+		<dependency org="org.mockito" name="mockito-core" rev="1.9.5" transitive="false" conf="compile->default(compile);runtime->default(compile);test->default(compile);compile-internal->default(compile);runtime-internal->default(compile);test-internal->default(compile)">
+			<artifact name="mockito-core" type="src" ext="jar" conf="sources" e:classifier="sources"/>
+			<artifact name="mockito-core" type="doc" ext="jar" conf="docs" e:classifier="javadoc"/>
+		</dependency>
+		<dependency org="org.hamcrest" name="hamcrest-core" rev="1.1" transitive="false" conf="compile->default(compile);runtime->default(compile);test->default(compile);compile-internal->default(compile);runtime-internal->default(compile);test-internal->default(compile)">
+			<artifact name="hamcrest-core" type="src" ext="jar" conf="sources" e:classifier="sources"/>
+		</dependency>
+		<dependency org="org.objenesis" name="objenesis" rev="1.0" transitive="false" conf="compile->default(compile);runtime->default(compile);test->default(compile);compile-internal->default(compile);runtime-internal->default(compile);test-internal->default(compile)">
+			<artifact name="objenesis" type="src" ext="jar" conf="sources" e:classifier="sources"/>
+			<artifact name="objenesis" type="doc" ext="jar" conf="docs" e:classifier="javadoc"/>
+		</dependency>
 		<dependency org="org.scala-tools.testing" name="specs_2.8.0" rev="1.6.5" transitive="false" conf="test->default(compile);test-internal->default(compile)">
 			<artifact name="specs_2.8.0" type="src" ext="jar" conf="sources" e:classifier="sources"/>
 		</dependency>
@@ -45,6 +56,14 @@
 		<dependency org="org.scala-lang.modules" name="scala-xml_2.11" rev="1.0.2" transitive="false" conf="test->default(compile);test-internal->default(compile)">
 			<artifact name="scala-xml_2.11" type="src" ext="jar" conf="sources" e:classifier="sources"/>
 			<artifact name="scala-xml_2.11" type="doc" ext="jar" conf="docs" e:classifier="javadoc"/>
+		</dependency>
+		<dependency org="org.scalamock" name="scalamock-scalatest-support_2.11" rev="3.2" transitive="false" conf="test->default(compile);test-internal->default(compile)">
+			<artifact name="scalamock-scalatest-support_2.11" type="src" ext="jar" conf="sources" e:classifier="sources"/>
+			<artifact name="scalamock-scalatest-support_2.11" type="doc" ext="jar" conf="docs" e:classifier="javadoc"/>
+		</dependency>
+		<dependency org="org.scalamock" name="scalamock-core_2.11" rev="3.2" transitive="false" conf="test->default(compile);test-internal->default(compile)">
+			<artifact name="scalamock-core_2.11" type="src" ext="jar" conf="sources" e:classifier="sources"/>
+			<artifact name="scalamock-core_2.11" type="doc" ext="jar" conf="docs" e:classifier="javadoc"/>
 		</dependency>
 		<dependency org="org.scala-lang" name="scala-compiler" rev="2.11.6" transitive="false" conf="scala-tool->default(compile)">
 			<artifact name="scala-compiler" type="src" ext="jar" conf="sources" e:classifier="sources"/>

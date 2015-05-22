@@ -7,8 +7,58 @@
 		revision="1.0"
 		conf="runtime-internal"
 		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool"
-		date="20150521161715"/>
+		date="20150522144141"/>
 	<dependencies>
+		<module organisation="org.mockito" name="mockito-core">
+			<revision name="1.9.5" status="release" pubdate="20121014060649" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.mockito.org" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="2">
+				<license name="The MIT License" url="http://code.google.com/p/mockito/wiki/License"/>
+				<metadata-artifact status="no" details="" size="2668" time="0" location="/home/eerilio/.ivy2/cache/org.mockito/mockito-core/ivy-1.9.5.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/mockito/mockito-core/1.9.5/mockito-core-1.9.5.pom"/>
+				<caller organisation="default" name="tutorial$sources_javadoc_2.11" conf="compile, runtime-internal, runtime, optional" rev="1.9.5" rev-constraint-default="1.9.5" rev-constraint-dynamic="1.9.5" callerrev="1.0"/>
+				<artifacts>
+					<artifact name="mockito-core" type="doc" ext="jar" extra-classifier="javadoc" status="no" details="" size="2285314" time="0" location="/home/eerilio/.ivy2/cache/org.mockito/mockito-core/docs/mockito-core-1.9.5-javadoc.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/mockito/mockito-core/1.9.5/mockito-core-1.9.5-javadoc.jar"/>
+					</artifact>
+					<artifact name="mockito-core" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="723074" time="0" location="/home/eerilio/.ivy2/cache/org.mockito/mockito-core/srcs/mockito-core-1.9.5-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/mockito/mockito-core/1.9.5/mockito-core-1.9.5-sources.jar"/>
+					</artifact>
+					<artifact name="mockito-core" type="jar" ext="jar" status="no" details="" size="1500011" time="0" location="/home/eerilio/.ivy2/cache/org.mockito/mockito-core/jars/mockito-core-1.9.5.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/mockito/mockito-core/1.9.5/mockito-core-1.9.5.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.objenesis" name="objenesis">
+			<revision name="1.0" status="release" pubdate="20070516183006" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://objenesis.googlecode.com/svn/docs/index.html" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="4">
+				<license name="MIT License" url="http://objenesis.googlecode.com/svn/docs/license.html"/>
+				<metadata-artifact status="no" details="" size="2392" time="0" location="/home/eerilio/.ivy2/cache/org.objenesis/objenesis/ivy-1.0.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/objenesis/objenesis/1.0/objenesis-1.0.pom"/>
+				<caller organisation="default" name="tutorial$sources_javadoc_2.11" conf="compile, runtime-internal, runtime, optional" rev="1.0" rev-constraint-default="1.0" rev-constraint-dynamic="1.0" callerrev="1.0"/>
+				<artifacts>
+					<artifact name="objenesis" type="jar" ext="jar" status="no" details="" size="28569" time="0" location="/home/eerilio/.ivy2/cache/org.objenesis/objenesis/jars/objenesis-1.0.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/objenesis/objenesis/1.0/objenesis-1.0.jar"/>
+					</artifact>
+					<artifact name="objenesis" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="21547" time="0" location="/home/eerilio/.ivy2/cache/org.objenesis/objenesis/srcs/objenesis-1.0-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/objenesis/objenesis/1.0/objenesis-1.0-sources.jar"/>
+					</artifact>
+					<artifact name="objenesis" type="doc" ext="jar" extra-classifier="javadoc" status="no" details="" size="178384" time="0" location="/home/eerilio/.ivy2/cache/org.objenesis/objenesis/docs/objenesis-1.0-javadoc.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/objenesis/objenesis/1.0/objenesis-1.0-javadoc.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.hamcrest" name="hamcrest-core">
+			<revision name="1.1" status="release" pubdate="20070718151143" resolver="sbt-chain" artresolver="sbt-chain" homepage="" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="3">
+				<metadata-artifact status="no" details="" size="4339" time="0" location="/home/eerilio/.ivy2/cache/org.hamcrest/hamcrest-core/ivy-1.1.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.pom"/>
+				<caller organisation="default" name="tutorial$sources_javadoc_2.11" conf="compile, runtime-internal, runtime, optional" rev="1.1" rev-constraint-default="1.1" rev-constraint-dynamic="1.1" callerrev="1.0"/>
+				<artifacts>
+					<artifact name="hamcrest-core" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="327" time="0" location="/home/eerilio/.ivy2/cache/org.hamcrest/hamcrest-core/srcs/hamcrest-core-1.1-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1-sources.jar"/>
+					</artifact>
+					<artifact name="hamcrest-core" type="jar" ext="jar" status="no" details="" size="76643" time="0" location="/home/eerilio/.ivy2/cache/org.hamcrest/hamcrest-core/jars/hamcrest-core-1.1.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
 		<module organisation="org.codehaus.jackson" name="jackson-core-asl">
 			<revision name="1.6.1" status="release" pubdate="20101007003501" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://jackson.codehaus.org" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="1">
 				<license name="The Apache Software License, Version 2.0" url="http://www.apache.org/licenses/LICENSE-2.0.txt"/>
